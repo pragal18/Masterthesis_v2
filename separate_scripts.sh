@@ -18,4 +18,7 @@ if echo "$parameterA" | grep 'context'; then
   python final_scripts/separation_context.py $parameterA 
 fi
 
-python final_scripts/separation_textlink.py $parameterA 
+if echo "$parameterA" | grep 'links'; then
+  python final_scripts/separation_textlink.py $parameterA  
+fi
+
