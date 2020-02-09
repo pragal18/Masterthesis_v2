@@ -1,0 +1,1740 @@
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_0_107> a nif:Sentence ;
+    nif:anchorOf "Abortion is the ending of pregnancy by removing a fetus or embryo before it can survive outside the uterus." ;
+    nif:beginIndex "0" ;
+    nif:endIndex "107" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_10087_10170> a nif:Sentence ;
+    nif:anchorOf "Only limited data are available comparing this method with dilation and extraction." ;
+    nif:beginIndex "10087" ;
+    nif:endIndex "10170" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_10171_10333> a nif:Sentence ;
+    nif:anchorOf "Unlike D&E, labor induced abortions after 18 weeks may be complicated by the occurrence of brief fetal survival, which may be legally characterized as live birth." ;
+    nif:beginIndex "10171" ;
+    nif:endIndex "10333" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_10334_10589> a nif:Sentence ;
+    nif:anchorOf """For this reason, labor induced abortion is legally risky in the U.S.
+
+Other methods
+Historically, a number of herbs reputed to possess abortifacient properties have been used in folk medicine: tansy, pennyroyal, black cohosh, and the now-extinct silphium.""" ;
+    nif:beginIndex "10334" ;
+    nif:endIndex "10589" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_10590_10737> a nif:Sentence ;
+    nif:anchorOf "The use of herbs in such a manner can cause serious—even lethal—side effects, such as multiple organ failure, and is not recommended by physicians." ;
+    nif:beginIndex "10590" ;
+    nif:endIndex "10737" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_1063_1155> a nif:Sentence ;
+    nif:anchorOf "The World Health Organization recommends safe and legal abortions be available to all women." ;
+    nif:beginIndex "1063" ;
+    nif:endIndex "1155" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_10738_10803> a nif:Sentence ;
+    nif:anchorOf "Abortion is sometimes attempted by causing trauma to the abdomen." ;
+    nif:beginIndex "10738" ;
+    nif:endIndex "10803" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_10804_10927> a nif:Sentence ;
+    nif:anchorOf "The degree of force, if severe, can cause serious internal injuries without necessarily succeeding in inducing miscarriage." ;
+    nif:beginIndex "10804" ;
+    nif:endIndex "10927" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_108_178> a nif:Sentence ;
+    nif:anchorOf "An abortion which occurs spontaneously is also known as a miscarriage." ;
+    nif:beginIndex "108" ;
+    nif:endIndex "178" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_10928_11035> a nif:Sentence ;
+    nif:anchorOf "In Southeast Asia, there is an ancient tradition of attempting abortion through forceful abdominal massage." ;
+    nif:beginIndex "10928" ;
+    nif:endIndex "11035" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_11036_11200> a nif:Sentence ;
+    nif:anchorOf "One of the bas reliefs decorating the temple of Angkor Wat in Cambodia depicts a demon performing such an abortion upon a woman who has been sent to the underworld." ;
+    nif:beginIndex "11036" ;
+    nif:endIndex "11200" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_11201_11384> a nif:Sentence ;
+    nif:anchorOf "Reported methods of unsafe, self-induced abortion include misuse of misoprostol, and insertion of non-surgical implements such as knitting needles and clothes hangers into the uterus." ;
+    nif:beginIndex "11201" ;
+    nif:endIndex "11384" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_11385_11485> a nif:Sentence ;
+    nif:anchorOf "These methods are rarely seen in developed countries where surgical abortion is legal and available." ;
+    nif:beginIndex "11385" ;
+    nif:endIndex "11485" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_11486_11580> a nif:Sentence ;
+    nif:anchorOf "All of these, and any other method to terminate pregnancy may be called \"induced miscarriage\"." ;
+    nif:beginIndex "11486" ;
+    nif:endIndex "11580" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_1156_1253> a nif:Sentence ;
+    nif:anchorOf "Around 56 million abortions occur each year in the world, with a little under half done unsafely." ;
+    nif:beginIndex "1156" ;
+    nif:endIndex "1253" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_11582_11696> a nif:Sentence ;
+    nif:anchorOf """Safety
+The health risks of abortion depend principally upon whether the procedure is performed safely or unsafely.""" ;
+    nif:beginIndex "11582" ;
+    nif:endIndex "11696" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_11697_11851> a nif:Sentence ;
+    nif:anchorOf "The World Health Organization defines unsafe abortions as those performed by unskilled individuals, with hazardous equipment, or in unsanitary facilities." ;
+    nif:beginIndex "11697" ;
+    nif:endIndex "11851" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_11852_11945> a nif:Sentence ;
+    nif:anchorOf "Legal abortions performed in the developed world are among the safest procedures in medicine." ;
+    nif:beginIndex "11852" ;
+    nif:endIndex "11945" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_11946_12138> a nif:Sentence ;
+    nif:anchorOf "In the US, the risk of maternal death from abortion is 0.7 per 100,000 procedures, making abortion about 13 times safer for women than childbirth (8.8 maternal deaths per 100,000 live births)." ;
+    nif:beginIndex "11946" ;
+    nif:endIndex "12138" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_12139_12289> a nif:Sentence ;
+    nif:anchorOf "The risk of abortion-related mortality increases with gestational age, but remains lower than that of childbirth through at least 21 weeks' gestation." ;
+    nif:beginIndex "12139" ;
+    nif:endIndex "12289" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_12290_12393> a nif:Sentence ;
+    nif:anchorOf "Outpatient abortion is as safe and effective from 64 to 70 days' gestation as it is from 57 to 63 days." ;
+    nif:beginIndex "12290" ;
+    nif:endIndex "12393" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_12394_12491> a nif:Sentence ;
+    nif:anchorOf "In the United States from 2000 to 2009, abortion had a lower mortality rate than plastic surgery." ;
+    nif:beginIndex "12394" ;
+    nif:endIndex "12491" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_12492_12652> a nif:Sentence ;
+    nif:anchorOf "Vacuum aspiration in the first trimester is the safest method of surgical abortion, and can be performed in a primary care office, abortion clinic, or hospital." ;
+    nif:beginIndex "12492" ;
+    nif:endIndex "12652" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_1254_1417> a nif:Sentence ;
+    nif:anchorOf "Abortion rates changed little between 2003 and 2008, before which they decreased for at least two decades as access to family planning and birth control increased." ;
+    nif:beginIndex "1254" ;
+    nif:endIndex "1417" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_12653_12808> a nif:Sentence ;
+    nif:anchorOf "Complications are rare and can include uterine perforation, pelvic infection, and retained products of conception requiring a second procedure to evacuate." ;
+    nif:beginIndex "12653" ;
+    nif:endIndex "12808" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_12809_12890> a nif:Sentence ;
+    nif:anchorOf "Infections account for one-third of abortion-related deaths in the United States." ;
+    nif:beginIndex "12809" ;
+    nif:endIndex "12890" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_12891_13072> a nif:Sentence ;
+    nif:anchorOf "The rate of complications of vacuum aspiration abortion in the first trimester is similar regardless of whether the procedure is performed in a hospital, surgical center, or office." ;
+    nif:beginIndex "12891" ;
+    nif:endIndex "13072" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_13073_13270> a nif:Sentence ;
+    nif:anchorOf "Preventive antibiotics (such as doxycycline or metronidazole) are typically given before elective abortion, as they are believed to substantially reduce the risk of postoperative uterine infection." ;
+    nif:beginIndex "13073" ;
+    nif:endIndex "13270" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_13271_13411> a nif:Sentence ;
+    nif:anchorOf "Complications after second-trimester abortion are similar to those after first-trimester abortion, and depend somewhat on the method chosen." ;
+    nif:beginIndex "13271" ;
+    nif:endIndex "13411" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_13412_13654> a nif:Sentence ;
+    nif:anchorOf "There is little difference in terms of safety and efficacy between medical abortion using a combined regimen of mifepristone and misoprostol and surgical abortion (vacuum aspiration) in early first trimester abortions up to 9 weeks gestation." ;
+    nif:beginIndex "13412" ;
+    nif:endIndex "13654" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_13655_13856> a nif:Sentence ;
+    nif:anchorOf "Medical abortion using the prostaglandin analog misoprostol alone is less effective and more painful than medical abortion using a combined regimen of mifepristone and misoprostol or surgical abortion." ;
+    nif:beginIndex "13655" ;
+    nif:endIndex "13856" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_13857_13966> a nif:Sentence ;
+    nif:anchorOf "Some purported risks of abortion are promoted primarily by anti-abortion groups, but lack scientific support." ;
+    nif:beginIndex "13857" ;
+    nif:endIndex "13966" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_13967_14080> a nif:Sentence ;
+    nif:anchorOf "For example, the question of a link between induced abortion and breast cancer has been investigated extensively." ;
+    nif:beginIndex "13967" ;
+    nif:endIndex "14080" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_14081_14479> a nif:Sentence ;
+    nif:anchorOf "Major medical and scientific bodies (including the World Health Organization, the US National Cancer Institute, the American Cancer Society, the Royal College of Obstetricians and Gynaecologists and the American Congress of Obstetricians and Gynecologists) have concluded that abortion does not cause breast cancer, although such a link continues to be studied and promoted by anti-abortion groups." ;
+    nif:beginIndex "14081" ;
+    nif:endIndex "14479" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_1418_1513> a nif:Sentence ;
+    nif:anchorOf "As of 2008, 40% of the world's women had access to legal abortions without limits as to reason." ;
+    nif:beginIndex "1418" ;
+    nif:endIndex "1513" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_14481_14674> a nif:Sentence ;
+    nif:anchorOf """Mental health
+(Main article: Abortion and mental health)
+There is no relationship between most induced abortions and mental-health problems other than those expected for any unwanted pregnancy.""" ;
+    nif:beginIndex "14481" ;
+    nif:endIndex "14674" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_14675_15027> a nif:Sentence ;
+    nif:anchorOf "The American Psychological Association has concluded that a woman's first abortion is not a threat to mental health when carried out in the first trimester, with such women no more likely to have mental-health problems than those carrying an unwanted pregnancy to term; the mental-health outcome of a woman's second or greater abortion is less certain." ;
+    nif:beginIndex "14675" ;
+    nif:endIndex "15027" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_15028_15240> a nif:Sentence ;
+    nif:anchorOf "Although some studies show negative mental-health outcomes in women who choose abortions after the first trimester because of fetal abnormalities, more rigorous research would be needed to show this conclusively." ;
+    nif:beginIndex "15028" ;
+    nif:endIndex "15240" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_1514_1613> a nif:Sentence ;
+    nif:anchorOf "Countries that permit abortions have different limits on how late in pregnancy abortion is allowed." ;
+    nif:beginIndex "1514" ;
+    nif:endIndex "1613" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_15241_15491> a nif:Sentence ;
+    nif:anchorOf "Some proposed negative psychological effects of abortion have been referred to by anti-abortion advocates as a separate condition called \"post-abortion syndrome\", which is not recognized by medical or psychological professionals in the United States." ;
+    nif:beginIndex "15241" ;
+    nif:endIndex "15491" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_15493_15679> a nif:Sentence ;
+    nif:anchorOf """Unsafe abortion
+(Main article: Unsafe abortion)
+Women seeking to terminate their pregnancies sometimes resort to unsafe methods, particularly when access to legal abortion is restricted.""" ;
+    nif:beginIndex "15493" ;
+    nif:endIndex "15679" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_15680_15810> a nif:Sentence ;
+    nif:anchorOf "They may attempt to self-abort or rely on another person who does not have proper medical training or access to proper facilities." ;
+    nif:beginIndex "15680" ;
+    nif:endIndex "15810" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_15811_15943> a nif:Sentence ;
+    nif:anchorOf "This has a tendency to lead to severe complications, such as incomplete abortion, sepsis, hemorrhage, and damage to internal organs." ;
+    nif:beginIndex "15811" ;
+    nif:endIndex "15943" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_15944_16021> a nif:Sentence ;
+    nif:anchorOf "Unsafe abortions are a major cause of injury and death among women worldwide." ;
+    nif:beginIndex "15944" ;
+    nif:endIndex "16021" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_16022_16184> a nif:Sentence ;
+    nif:anchorOf "Although data are imprecise, it is estimated that approximately 20 million unsafe abortions are performed annually, with 97% taking place in developing countries." ;
+    nif:beginIndex "16022" ;
+    nif:endIndex "16184" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_1614_1746> a nif:Sentence ;
+    nif:anchorOf "Since ancient times, abortions have been done using herbal medicines, sharp tools, with force, or through other traditional methods." ;
+    nif:beginIndex "1614" ;
+    nif:endIndex "1746" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_16185_16249> a nif:Sentence ;
+    nif:anchorOf "Unsafe abortions are believed to result in millions of injuries." ;
+    nif:beginIndex "16185" ;
+    nif:endIndex "16249" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_16250_16433> a nif:Sentence ;
+    nif:anchorOf "Estimates of deaths vary according to methodology, and have ranged from 37,000 to 70,000 in the past decade; deaths from unsafe abortion account for around 13% of all maternal deaths." ;
+    nif:beginIndex "16250" ;
+    nif:endIndex "16433" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_16434_16515> a nif:Sentence ;
+    nif:anchorOf "The World Health Organization believes that mortality has fallen since the 1990s." ;
+    nif:beginIndex "16434" ;
+    nif:endIndex "16515" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_16516_16736> a nif:Sentence ;
+    nif:anchorOf "To reduce the number of unsafe abortions, public health organizations have generally advocated emphasizing the legalization of abortion, training of medical personnel, and ensuring access to reproductive-health services." ;
+    nif:beginIndex "16516" ;
+    nif:endIndex "16736" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_16737_16926> a nif:Sentence ;
+    nif:anchorOf "However, the Dublin Declaration on Maternal Health, signed in 2012, notes that \"the prohibition of abortion does not affect, in any way, the availability of optimal care to pregnant women\"." ;
+    nif:beginIndex "16737" ;
+    nif:endIndex "16926" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_16927_17025> a nif:Sentence ;
+    nif:anchorOf "A major factor in whether abortions are performed safely or not is the legal standing of abortion." ;
+    nif:beginIndex "16927" ;
+    nif:endIndex "17025" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_17026_17195> a nif:Sentence ;
+    nif:anchorOf "Countries with restrictive abortion laws have higher rates of unsafe abortion and similar overall abortion rates compared to those where abortion is legal and available." ;
+    nif:beginIndex "17026" ;
+    nif:endIndex "17195" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_17196_17399> a nif:Sentence ;
+    nif:anchorOf "For example, the 1996 legalization of abortion in South Africa had an immediate positive impact on the frequency of abortion-related complications, with abortion-related deaths dropping by more than 90%." ;
+    nif:beginIndex "17196" ;
+    nif:endIndex "17399" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_17400_17544> a nif:Sentence ;
+    nif:anchorOf "A 2011 study concluded that in the United States, some state-level anti-abortion laws are correlated with lower rates of abortion in that state." ;
+    nif:beginIndex "17400" ;
+    nif:endIndex "17544" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_1747_1837> a nif:Sentence ;
+    nif:anchorOf "Abortion laws and cultural or religious views of abortions are different around the world." ;
+    nif:beginIndex "1747" ;
+    nif:endIndex "1837" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_17545_17657> a nif:Sentence ;
+    nif:anchorOf "The analysis, however, did not take into account travel to other states without such laws to obtain an abortion." ;
+    nif:beginIndex "17545" ;
+    nif:endIndex "17657" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_17658_17746> a nif:Sentence ;
+    nif:anchorOf "In addition, a lack of access to effective contraception contributes to unsafe abortion." ;
+    nif:beginIndex "17658" ;
+    nif:endIndex "17746" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_17747_17964> a nif:Sentence ;
+    nif:anchorOf "It has been estimated that the incidence of unsafe abortion could be reduced by up to 75% (from 20 million to 5 million annually) if modern family planning and maternal health services were readily available globally." ;
+    nif:beginIndex "17747" ;
+    nif:endIndex "17964" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_17965_18189> a nif:Sentence ;
+    nif:anchorOf "Rates of such abortions may be difficult to measure because they can be reported variously as miscarriage, \"induced miscarriage\", \"menstrual regulation\", \"mini-abortion\", and \"regulation of a delayed/suspended menstruation\"." ;
+    nif:beginIndex "17965" ;
+    nif:endIndex "18189" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_179_281> a nif:Sentence ;
+    nif:anchorOf "An abortion may be caused purposely and is then called an , or less frequently, \"induced miscarriage\"." ;
+    nif:beginIndex "179" ;
+    nif:endIndex "281" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_18190_18432> a nif:Sentence ;
+    nif:anchorOf "Forty percent of the world's women are able to access therapeutic and elective abortions within gestational limits, while an additional 35 percent have access to legal abortion if they meet certain physical, mental, or socioeconomic criteria." ;
+    nif:beginIndex "18190" ;
+    nif:endIndex "18432" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_1838_1977> a nif:Sentence ;
+    nif:anchorOf "In some areas abortion is legal only in specific cases such as rape, problems with the fetus, poverty, risk to a woman's health, or incest." ;
+    nif:beginIndex "1838" ;
+    nif:endIndex "1977" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_18433_18571> a nif:Sentence ;
+    nif:anchorOf "While maternal mortality seldom results from safe abortions, unsafe abortions result in 70,000 deaths and 5 million disabilities per year." ;
+    nif:beginIndex "18433" ;
+    nif:endIndex "18571" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_18572_18705> a nif:Sentence ;
+    nif:anchorOf "Complications of unsafe abortion account for approximately an eighth of maternal mortalities worldwide, though this varies by region." ;
+    nif:beginIndex "18572" ;
+    nif:endIndex "18705" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_18706_18795> a nif:Sentence ;
+    nif:anchorOf "Secondary infertility caused by an unsafe abortion affects an estimated 24 million women." ;
+    nif:beginIndex "18706" ;
+    nif:endIndex "18795" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_18796_18877> a nif:Sentence ;
+    nif:anchorOf "The rate of unsafe abortions has increased from 44% to 49% between 1995 and 2008." ;
+    nif:beginIndex "18796" ;
+    nif:endIndex "18877" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_18878_19027> a nif:Sentence ;
+    nif:anchorOf "Health education, access to family planning, and improvements in health care during and after abortion have been proposed to address this phenomenon." ;
+    nif:beginIndex "18878" ;
+    nif:endIndex "19027" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_19029_19187> a nif:Sentence ;
+    nif:anchorOf """Live birth
+Although it is very uncommon, women undergoing surgical abortion after 18 weeks gestation sometimes give birth to a fetus that may survive briefly.""" ;
+    nif:beginIndex "19029" ;
+    nif:endIndex "19187" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_19188_19236> a nif:Sentence ;
+    nif:anchorOf "Longer term survival is possible after 22 weeks." ;
+    nif:beginIndex "19188" ;
+    nif:endIndex "19236" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_19237_19408> a nif:Sentence ;
+    nif:anchorOf "If medical staff observe signs of life, they may be required to provide care: emergency medical care if the child has a good chance of survival and palliative care if not." ;
+    nif:beginIndex "19237" ;
+    nif:endIndex "19408" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_19409_19519> a nif:Sentence ;
+    nif:anchorOf "Induced fetal demise before termination of pregnancy after 20–21 weeks gestation is recommended to avoid this." ;
+    nif:beginIndex "19409" ;
+    nif:endIndex "19519" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_19520_19686> a nif:Sentence ;
+    nif:anchorOf "Death following live birth which is caused by abortion is given the ICD-10 underlying cause description code of P96.4; data are identified as either fetus or newborn." ;
+    nif:beginIndex "19520" ;
+    nif:endIndex "19686" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_19687_19808> a nif:Sentence ;
+    nif:anchorOf "Between 1999 and 2013, in the U.S., the CDC recorded 531 such deaths for newborns, approximately 4 per 100,000 abortions." ;
+    nif:beginIndex "19687" ;
+    nif:endIndex "19808" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_1978_2068> a nif:Sentence ;
+    nif:anchorOf "In many places there is much debate over the moral, ethical, and legal issues of abortion." ;
+    nif:beginIndex "1978" ;
+    nif:endIndex "2068" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_19810_20241> a nif:Sentence ;
+    nif:anchorOf """Incidence
+There are two commonly used methods of measuring the incidence of abortion: 
+*  Abortion rate – number of abortions per 1000 women between 15 and 44 years of age 
+*  Abortion percentage – number of abortions out of 100 known pregnancies (pregnancies include live births, abortions and miscarriages) In many places, where abortion is illegal or carries a heavy social stigma, medical reporting of abortion is not reliable.""" ;
+    nif:beginIndex "19810" ;
+    nif:endIndex "20241" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_20242_20367> a nif:Sentence ;
+    nif:anchorOf "For this reason, estimates of the incidence of abortion must be made without determining certainty related to standard error." ;
+    nif:beginIndex "20242" ;
+    nif:endIndex "20367" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_20368_20554> a nif:Sentence ;
+    nif:anchorOf "The number of abortions performed worldwide seems to have remained stable in recent years, with 41.6 million having been performed in 2003 and 43.8 million having been performed in 2008." ;
+    nif:beginIndex "20368" ;
+    nif:endIndex "20554" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_20555_20709> a nif:Sentence ;
+    nif:anchorOf "The abortion rate worldwide was 28 per 1000 women, though it was 24 per 1000 women for developed countries and 29 per 1000 women for developing countries." ;
+    nif:beginIndex "20555" ;
+    nif:endIndex "20709" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_2069_2201> a nif:Sentence ;
+    nif:anchorOf "Those who oppose abortion often maintain that an embryo or fetus is a human with a right to life and may compare abortion to murder." ;
+    nif:beginIndex "2069" ;
+    nif:endIndex "2201" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_20710_20895> a nif:Sentence ;
+    nif:anchorOf "The same 2012 study indicated that in 2008, the estimated abortion percentage of known pregnancies was at 21% worldwide, with 26% in developed countries and 20% in developing countries." ;
+    nif:beginIndex "20710" ;
+    nif:endIndex "20895" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_20896_21036> a nif:Sentence ;
+    nif:anchorOf "On average, the incidence of abortion is similar in countries with restrictive abortion laws and those with more liberal access to abortion." ;
+    nif:beginIndex "20896" ;
+    nif:endIndex "21036" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_21037_21162> a nif:Sentence ;
+    nif:anchorOf "However, restrictive abortion laws are associated with increases in the percentage of abortions which are performed unsafely." ;
+    nif:beginIndex "21037" ;
+    nif:endIndex "21162" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_21163_21475> a nif:Sentence ;
+    nif:anchorOf "The unsafe abortion rate in developing countries is partly attributable to lack of access to modern contraceptives; according to the Guttmacher Institute, providing access to contraceptives would result in about 14.5 million fewer unsafe abortions and 38,000 fewer deaths from unsafe abortion annually worldwide." ;
+    nif:beginIndex "21163" ;
+    nif:endIndex "21475" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_21476_21541> a nif:Sentence ;
+    nif:anchorOf "The rate of legal, induced abortion varies extensively worldwide." ;
+    nif:beginIndex "21476" ;
+    nif:endIndex "21541" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_21542_21738> a nif:Sentence ;
+    nif:anchorOf "According to the report of employees of Guttmacher Institute it ranged from 7 per 1000 women (Germany and Switzerland) to 30 per 1000 women (Estonia) in countries with complete statistics in 2008." ;
+    nif:beginIndex "21542" ;
+    nif:endIndex "21738" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_21739_21998> a nif:Sentence ;
+    nif:anchorOf "The proportion of pregnancies that ended in induced abortion ranged from about 10% (Israel, the Netherlands and Switzerland) to 30% (Estonia) in the same group, though it might be as high as 36% in Hungary and Romania, whose statistics were deemed incomplete." ;
+    nif:beginIndex "21739" ;
+    nif:endIndex "21998" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_21999_22166> a nif:Sentence ;
+    nif:anchorOf "The abortion rate may also be expressed as the average number of abortions a woman has during her reproductive years; this is referred to as total abortion rate (TAR)." ;
+    nif:beginIndex "21999" ;
+    nif:endIndex "22166" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_2202_2316> a nif:Sentence ;
+    nif:anchorOf "Those who favor the legality of abortion often hold that a woman has a right to make decisions about her own body." ;
+    nif:beginIndex "2202" ;
+    nif:endIndex "2316" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_22168_22281> a nif:Sentence ;
+    nif:anchorOf """Gestational age and method
+Abortion rates also vary depending on the stage of pregnancy and the method practiced.""" ;
+    nif:beginIndex "22168" ;
+    nif:endIndex "22281" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_22282_22638> a nif:Sentence ;
+    nif:anchorOf "In 2003, the Centers for Disease Control and Prevention (CDC) reported that 26% of abortions in the United States were known to have been obtained at less than 6 weeks' gestation, 18% at 7 weeks, 15% at 8 weeks, 18% at 9 through 10 weeks, 9.7% at 11 through 12 weeks, 6.2% at 13 through 15 weeks, 4.1% at 16 through 20 weeks and 1.4% at more than 21 weeks." ;
+    nif:beginIndex "22282" ;
+    nif:endIndex "22638" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_22639_22940> a nif:Sentence ;
+    nif:anchorOf "90.9% of these were classified as having been done by \"curettage\" (suction-aspiration, dilation and curettage, dilation and evacuation), 7.7% by \"medical\" means (mifepristone), 0.4% by \"intrauterine instillation\" (saline or prostaglandin), and 1.0% by \"other\" (including hysterotomy and hysterectomy)." ;
+    nif:beginIndex "22639" ;
+    nif:endIndex "22940" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_22941_23235> a nif:Sentence ;
+    nif:anchorOf "According to the CDC, due to data collection difficulties the data must be viewed as tentative and some fetal deaths reported beyond 20 weeks may be natural deaths erroneously classified as abortions if the removal of the dead fetus is accomplished by the same procedure as an induced abortion." ;
+    nif:beginIndex "22941" ;
+    nif:endIndex "23235" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_2318_2398> a nif:Sentence ;
+    nif:anchorOf """Types
+
+
+Induced
+Approximately 205 million pregnancies occur each year worldwide.""" ;
+    nif:beginIndex "2318" ;
+    nif:endIndex "2398" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_23236_23430> a nif:Sentence ;
+    nif:anchorOf "The Guttmacher Institute estimated there were 2,200 intact dilation and extraction procedures in the US during 2000; this accounts for 0.17% of the total number of abortions performed that year." ;
+    nif:beginIndex "23236" ;
+    nif:endIndex "23430" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_23431_23580> a nif:Sentence ;
+    nif:anchorOf "Similarly, in England and Wales in 2006, 89% of terminations occurred at or under 12 weeks, 9% between 13 and 19 weeks, and 1.5% at or over 20 weeks." ;
+    nif:beginIndex "23431" ;
+    nif:endIndex "23580" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_23581_23662> a nif:Sentence ;
+    nif:anchorOf "64% of those reported were by vacuum aspiration, 6% by D&E, and 30% were medical." ;
+    nif:beginIndex "23581" ;
+    nif:endIndex "23662" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_23663_23790> a nif:Sentence ;
+    nif:anchorOf "There are more second trimester abortions in developing countries such as China, India and Vietnam than in developed countries." ;
+    nif:beginIndex "23663" ;
+    nif:endIndex "23790" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_23792_23889> a nif:Sentence ;
+    nif:anchorOf """Motivation
+
+
+Personal
+The reasons why women have abortions are diverse and vary across the world.""" ;
+    nif:beginIndex "23792" ;
+    nif:endIndex "23889" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_23890_24031> a nif:Sentence ;
+    nif:anchorOf "Some of the most common reasons are to postpone childbearing to a more suitable time or to focus energies and resources on existing children." ;
+    nif:beginIndex "23890" ;
+    nif:endIndex "24031" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_2399_2469> a nif:Sentence ;
+    nif:anchorOf "Over a third are unintended and about a fifth end in induced abortion." ;
+    nif:beginIndex "2399" ;
+    nif:endIndex "2469" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_24032_24541> a nif:Sentence ;
+    nif:anchorOf "Others include being unable to afford a child either in terms of the direct costs of raising a child or the loss of income while caring for the child, lack of support from the father, inability to afford additional children, desire to provide schooling for existing children, disruption of one's own education, relationship problems with their partner, a perception of being too young to have a child, unemployment, and not being willing to raise a child conceived as a result of rape or incest, among others." ;
+    nif:beginIndex "24032" ;
+    nif:endIndex "24541" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_24543_24617> a nif:Sentence ;
+    nif:anchorOf """Societal
+Some abortions are undergone as the result of societal pressures.""" ;
+    nif:beginIndex "24543" ;
+    nif:endIndex "24617" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_24618_24953> a nif:Sentence ;
+    nif:anchorOf "These might include the preference for children of a specific sex or race, disapproval of single or early motherhood, stigmatization of people with disabilities, insufficient economic support for families, lack of access to or rejection of contraceptive methods, or efforts toward population control (such as China's one-child policy)." ;
+    nif:beginIndex "24618" ;
+    nif:endIndex "24953" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_2470_2520> a nif:Sentence ;
+    nif:anchorOf "Most abortions result from unintended pregnancies." ;
+    nif:beginIndex "2470" ;
+    nif:endIndex "2520" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_24954_25038> a nif:Sentence ;
+    nif:anchorOf "These factors can sometimes result in compulsory abortion or sex-selective abortion." ;
+    nif:beginIndex "24954" ;
+    nif:endIndex "25038" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_25039_25185> a nif:Sentence ;
+    nif:anchorOf "An American study in 2002 concluded that about half of women having abortions were using a form of contraception at the time of becoming pregnant." ;
+    nif:beginIndex "25039" ;
+    nif:endIndex "25185" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_25186_25378> a nif:Sentence ;
+    nif:anchorOf "Inconsistent use was reported by half of those using condoms and three-quarters of those using the birth-control pill; 42% of those using condoms reported failure through slipping or breakage." ;
+    nif:beginIndex "25186" ;
+    nif:endIndex "25378" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_2521_2611> a nif:Sentence ;
+    nif:anchorOf "In the United Kingdom, 1 to 2% of abortions are done due to genetic problems in the fetus." ;
+    nif:beginIndex "2521" ;
+    nif:endIndex "2611" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_25379_25560> a nif:Sentence ;
+    nif:anchorOf "The Guttmacher Institute estimated that \"most abortions in the United States are obtained by minority women\" because minority women \"have much higher rates of unintended pregnancy.\"" ;
+    nif:beginIndex "25379" ;
+    nif:endIndex "25560" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_25562_25834> a nif:Sentence ;
+    nif:anchorOf """Maternal and fetal health
+An additional factor is risk to maternal or fetal health, which was cited as the primary reason for abortion in over a third of cases in some countries and as a significant factor in only a single-digit percentage of abortions in other countries.""" ;
+    nif:beginIndex "25562" ;
+    nif:endIndex "25834" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_25835_26098> a nif:Sentence ;
+    nif:anchorOf "In the U.S., the Supreme Court decisions in Roe vs Wade and Doe vs Bolton: \"ruled that the state's interest in the life of the fetus became compelling only at the point of viability, defined as the point at which the fetus can survive independently of its mother." ;
+    nif:beginIndex "25835" ;
+    nif:endIndex "26098" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_26099_26225> a nif:Sentence ;
+    nif:anchorOf "Even after the point of viability, the state cannot favor the life of the fetus over the life or health of the pregnant woman." ;
+    nif:beginIndex "26099" ;
+    nif:endIndex "26225" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_2612_2669> a nif:Sentence ;
+    nif:anchorOf "A pregnancy can be intentionally aborted in several ways." ;
+    nif:beginIndex "2612" ;
+    nif:endIndex "2669" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_26226_26367> a nif:Sentence ;
+    nif:anchorOf "Under the right of privacy, physicians must be free to use their \"medical judgment for the preservation of the life or health of the mother.\"" ;
+    nif:beginIndex "26226" ;
+    nif:endIndex "26367" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_26368_26666> a nif:Sentence ;
+    nif:anchorOf "On the same day that the Court decided Roe, it also decided Doe v. Bolton, in which the Court defined health very broadly: \"The medical judgment may be exercised in the light of all factors—physical, emotional, psychological, familial, and the woman's age—relevant to the well-being of the patient." ;
+    nif:beginIndex "26368" ;
+    nif:endIndex "26666" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_26667_26706> a nif:Sentence ;
+    nif:anchorOf "All these factors may relate to health." ;
+    nif:beginIndex "26667" ;
+    nif:endIndex "26706" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_26707_26796> a nif:Sentence ;
+    nif:anchorOf "This allows the attending physician the room he needs to make his best medical judgment.\"" ;
+    nif:beginIndex "26707" ;
+    nif:endIndex "26796" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_2670_2805> a nif:Sentence ;
+    nif:anchorOf "The manner selected often depends upon the gestational age of the embryo or fetus, which increases in size as the pregnancy progresses." ;
+    nif:beginIndex "2670" ;
+    nif:endIndex "2805" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_26797_27030> a nif:Sentence ;
+    nif:anchorOf "Public opinion shifted in America following television personality Sherri Finkbine's discovery during her fifth month of pregnancy that she had been exposed to thalidomide, unable to abort in the United States she traveled to Sweden." ;
+    nif:beginIndex "26797" ;
+    nif:endIndex "27030" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_27031_27134> a nif:Sentence ;
+    nif:anchorOf "From 1962-65 there was an outbreak of German measles that left 15,000 babies with severe birth defects." ;
+    nif:beginIndex "27031" ;
+    nif:endIndex "27134" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_27135_27228> a nif:Sentence ;
+    nif:anchorOf "In 1967, the American Medical Association publicly supported liberalization of abortion laws." ;
+    nif:beginIndex "27135" ;
+    nif:endIndex "27228" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_27229_27432> a nif:Sentence ;
+    nif:anchorOf "A National Opinion Research Center poll in 1965 showed 73% supported abortion when the mothers life was at risk, 57% when birth defects were present and 59% for pregnancies resulting from rape or incest." ;
+    nif:beginIndex "27229" ;
+    nif:endIndex "27432" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_27434_27683> a nif:Sentence ;
+    nif:anchorOf """Cancer
+The rate of cancer during pregnancy is 0.02–1%, and in many cases, cancer of the mother leads to consideration of abortion to protect the life of the mother, or in response to the potential damage that may occur to the fetus during treatment.""" ;
+    nif:beginIndex "27434" ;
+    nif:endIndex "27683" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_27684_27931> a nif:Sentence ;
+    nif:anchorOf "This is particularly true for cervical cancer, the most common type which occurs in 1 of every 2000-13000 pregnancies, for which initiation of treatment \"cannot co-exist with preservation of fetal life (unless neoadjuvant chemotherapy is chosen).\"" ;
+    nif:beginIndex "27684" ;
+    nif:endIndex "27931" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_27932_28126> a nif:Sentence ;
+    nif:anchorOf "Very early stage cervical cancers (I and IIa) may be treated by radical hysterectomy and pelvic lymph node dissection, radiation therapy, or both, while later stages are treated by radiotherapy." ;
+    nif:beginIndex "27932" ;
+    nif:endIndex "28126" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_2806_2931> a nif:Sentence ;
+    nif:anchorOf "Specific procedures may also be selected due to legality, regional availability, and doctor or a women's personal preference." ;
+    nif:beginIndex "2806" ;
+    nif:endIndex "2931" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_28127_28167> a nif:Sentence ;
+    nif:anchorOf "Chemotherapy may be used simultaneously." ;
+    nif:beginIndex "28127" ;
+    nif:endIndex "28167" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_28168_28419> a nif:Sentence ;
+    nif:anchorOf "Treatment of breast cancer during pregnancy also involves fetal considerations, because lumpectomy is discouraged in favor of modified radical mastectomy unless late-term pregnancy allows follow-up radiation therapy to be administered after the birth." ;
+    nif:beginIndex "28168" ;
+    nif:endIndex "28419" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_282_345> a nif:Sentence ;
+    nif:anchorOf "The word abortion is often used to mean only induced abortions." ;
+    nif:beginIndex "282" ;
+    nif:endIndex "345" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_28420_28580> a nif:Sentence ;
+    nif:anchorOf "Exposure to a single chemotherapy drug is estimated to cause a 7.5–17% risk of teratogenic effects on the fetus, with higher risks for multiple drug treatments." ;
+    nif:beginIndex "28420" ;
+    nif:endIndex "28580" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_28581_28661> a nif:Sentence ;
+    nif:anchorOf "Treatment with more than 40 Gy of radiation usually causes spontaneous abortion." ;
+    nif:beginIndex "28581" ;
+    nif:endIndex "28661" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_28662_28908> a nif:Sentence ;
+    nif:anchorOf "Exposure to much lower doses during the first trimester, especially 8 to 15 weeks of development, can cause intellectual disability or microcephaly, and exposure at this or subsequent stages can cause reduced intrauterine growth and birth weight." ;
+    nif:beginIndex "28662" ;
+    nif:endIndex "28908" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_28909_28979> a nif:Sentence ;
+    nif:anchorOf "Exposures above 0.005–0.025 Gy cause a dose-dependent reduction in IQ." ;
+    nif:beginIndex "28909" ;
+    nif:endIndex "28979" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_28980_29126> a nif:Sentence ;
+    nif:anchorOf "It is possible to greatly reduce exposure to radiation with abdominal shielding, depending on how far the area to be irradiated is from the fetus." ;
+    nif:beginIndex "28980" ;
+    nif:endIndex "29126" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_29127_29187> a nif:Sentence ;
+    nif:anchorOf "The process of birth itself may also put the mother at risk." ;
+    nif:beginIndex "29127" ;
+    nif:endIndex "29187" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_29188_29454> a nif:Sentence ;
+    nif:anchorOf "\"Vaginal delivery may result in dissemination of neoplastic cells into lymphovascular channels, haemorrhage, cervical laceration and implantation of malignant cells in the episiotomy site, while abdominal delivery may delay the initiation of non-surgical treatment.\"" ;
+    nif:beginIndex "29188" ;
+    nif:endIndex "29454" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_2932_3034> a nif:Sentence ;
+    nif:anchorOf "Reasons for procuring induced abortions are typically characterized as either therapeutic or elective." ;
+    nif:beginIndex "2932" ;
+    nif:endIndex "3034" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_29456_29644> a nif:Sentence ;
+    nif:anchorOf """History and religion
+(Main article: History of abortion)
+Since ancient times abortions have been done using herbal medicines, sharp tools, with force, or through other traditional methods.""" ;
+    nif:beginIndex "29456" ;
+    nif:endIndex "29644" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_29645_29877> a nif:Sentence ;
+    nif:anchorOf "Induced abortion has long history, and can be traced back to civilizations as varied as China under Shennong (c. 2700 BCE), Ancient Egypt with its Ebers Papyrus (c. 1550 BCE), and the Roman Empire in the time of Juvenal (c. 200 CE)." ;
+    nif:beginIndex "29645" ;
+    nif:endIndex "29877" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_29878_30115> a nif:Sentence ;
+    nif:anchorOf "There is evidence to suggest that pregnancies were terminated through a number of methods, including the administration of abortifacient herbs, the use of sharpened implements, the application of abdominal pressure, and other techniques." ;
+    nif:beginIndex "29878" ;
+    nif:endIndex "30115" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_30116_30222> a nif:Sentence ;
+    nif:anchorOf "One of the earliest known artistic representations of abortion is in a bas relief at Angkor Wat (c. 1150)." ;
+    nif:beginIndex "30116" ;
+    nif:endIndex "30222" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_30223_30366> a nif:Sentence ;
+    nif:anchorOf "Found in a series of friezes that represent judgment after death in Hindu and Buddhist culture, it depicts the technique of abdominal abortion." ;
+    nif:beginIndex "30223" ;
+    nif:endIndex "30366" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_3035_3483> a nif:Sentence ;
+    nif:anchorOf "An abortion is medically referred to as a therapeutic abortion when it is performed to save the life of the pregnant woman; prevent harm to the woman's physical or mental health; terminate a pregnancy where indications are that the child will have a significantly increased chance of premature morbidity or mortality or be otherwise disabled; or to selectively reduce the number of fetuses to lessen health risks associated with multiple pregnancy." ;
+    nif:beginIndex "3035" ;
+    nif:endIndex "3483" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_30367_30682> a nif:Sentence ;
+    nif:anchorOf "Some medical scholars and abortion opponents have suggested that the Hippocratic Oath forbade Ancient Greek physicians from performing abortions; other scholars disagree with this interpretation, and state the medical texts of Hippocratic Corpus contain descriptions of abortive techniques right alongside the Oath." ;
+    nif:beginIndex "30367" ;
+    nif:endIndex "30682" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_30683_30863> a nif:Sentence ;
+    nif:anchorOf "The physician Scribonius Largus wrote in 43 CE that the Hippocratic Oath prohibits abortion, as did Soranus, although apparently not all doctors adhered to it strictly at the time." ;
+    nif:beginIndex "30683" ;
+    nif:endIndex "30863" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_30864_31141> a nif:Sentence ;
+    nif:anchorOf "According to Soranus' 1st or 2nd century CE work Gynaecology, one party of medical practitioners banished all abortives as required by the Hippocratic Oath; the other party —to which he belonged— was willing to prescribe abortions, but only for the sake of the mother's health." ;
+    nif:beginIndex "30864" ;
+    nif:endIndex "31141" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_31142_31257> a nif:Sentence ;
+    nif:anchorOf "Aristotle, in his treatise on government Politics (350 BCE), condemns infanticide as a means of population control." ;
+    nif:beginIndex "31142" ;
+    nif:endIndex "31257" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_31258_31509> a nif:Sentence ;
+    nif:anchorOf "He preferred abortion in such cases, with the restriction \"[that it] must be practised on it before it has developed sensation and life; for the line between lawful and unlawful abortion will be marked by the fact of having sensation and being alive.\"" ;
+    nif:beginIndex "31258" ;
+    nif:endIndex "31509" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_31510_31812> a nif:Sentence ;
+    nif:anchorOf "In Christianity, Pope Sixtus V (1585–90) was the first Pope to declare that abortion is homicide regardless of the stage of pregnancy; the Catholic Church had previously been divided on whether it believed that abortion was murder, and did not begin vigorously opposing abortion until the 19th century." ;
+    nif:beginIndex "31510" ;
+    nif:endIndex "31812" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_31813_32060> a nif:Sentence ;
+    nif:anchorOf "Islamic tradition has traditionally permitted abortion until a point in time when Muslims believe the soul enters the fetus, considered by various theologians to be at conception, 40 days after conception, 120 days after conception, or quickening." ;
+    nif:beginIndex "31813" ;
+    nif:endIndex "32060" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_32061_32194> a nif:Sentence ;
+    nif:anchorOf "However, abortion is largely heavily restricted or forbidden in areas of high Islamic faith such as the Middle East and North Africa." ;
+    nif:beginIndex "32061" ;
+    nif:endIndex "32194" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_32195_32282> a nif:Sentence ;
+    nif:anchorOf "In Europe and North America, abortion techniques advanced starting in the 17th century." ;
+    nif:beginIndex "32195" ;
+    nif:endIndex "32282" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_32283_32412> a nif:Sentence ;
+    nif:anchorOf "However, conservatism by most physicians with regards to sexual matters prevented the wide expansion of safe abortion techniques." ;
+    nif:beginIndex "32283" ;
+    nif:endIndex "32412" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_32413_32666> a nif:Sentence ;
+    nif:anchorOf "Other medical practitioners in addition to some physicians advertised their services, and they were not widely regulated until the 19th century, when the practice (sometimes called restellism) was banned in both the United States and the United Kingdom." ;
+    nif:beginIndex "32413" ;
+    nif:endIndex "32666" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_32667_32754> a nif:Sentence ;
+    nif:anchorOf "Church groups as well as physicians were highly influential in anti-abortion movements." ;
+    nif:beginIndex "32667" ;
+    nif:endIndex "32754" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_32755_32923> a nif:Sentence ;
+    nif:anchorOf "In the US, abortion was more dangerous than childbirth until about 1930 when incremental improvements in abortion procedures relative to childbirth made abortion safer." ;
+    nif:beginIndex "32755" ;
+    nif:endIndex "32923" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_32924_33055> a nif:Sentence ;
+    nif:anchorOf "Soviet Russia (1919), Iceland (1935) and Sweden (1938) were among the first countries to legalize certain or all forms of abortion." ;
+    nif:beginIndex "32924" ;
+    nif:endIndex "33055" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_33056_33243> a nif:Sentence ;
+    nif:anchorOf "In 1935 Nazi Germany, a law was passed permitting abortions for those deemed \"hereditarily ill\", while women considered of German stock were specifically prohibited from having abortions." ;
+    nif:beginIndex "33056" ;
+    nif:endIndex "33243" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_33244_33482> a nif:Sentence ;
+    nif:anchorOf "Beginning in the second half of the twentieth century, abortion was legalized in a greater number of countries.A bill passed by the state legislature of New York legalizing abortion was signed by Governor Nelson Rockefeller in April 1970." ;
+    nif:beginIndex "33244" ;
+    nif:endIndex "33482" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_33484_33619> a nif:Sentence ;
+    nif:anchorOf """Society and culture
+
+
+Abortion debate
+(Main article: Abortion debate)
+Induced abortion has long been the source of considerable debate.""" ;
+    nif:beginIndex "33484" ;
+    nif:endIndex "33619" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_33620_33740> a nif:Sentence ;
+    nif:anchorOf "Ethical, moral, philosophical, biological, religious and legal issues surrounding abortion are related to value systems." ;
+    nif:beginIndex "33620" ;
+    nif:endIndex "33740" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_33741_33832> a nif:Sentence ;
+    nif:anchorOf "Opinions of abortion may be about fetal rights, governmental authority, and women's rights." ;
+    nif:beginIndex "33741" ;
+    nif:endIndex "33832" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_33833_34052> a nif:Sentence ;
+    nif:anchorOf "In both public and private debate, arguments presented in favor of or against abortion access focus on either the moral permissibility of an induced abortion, or justification of laws permitting or restricting abortion." ;
+    nif:beginIndex "33833" ;
+    nif:endIndex "34052" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_34053_34343> a nif:Sentence ;
+    nif:anchorOf "The World Medical Association Declaration on Therapeutic Abortion notes that \"circumstances bringing the interests of a mother into conflict with the interests of her unborn child create a dilemma and raise the question as to whether or not the pregnancy should be deliberately terminated\"." ;
+    nif:beginIndex "34053" ;
+    nif:endIndex "34343" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_34344_34472> a nif:Sentence ;
+    nif:anchorOf "Abortion debates, especially pertaining to abortion laws, are often spearheaded by groups advocating one of these two positions." ;
+    nif:beginIndex "34344" ;
+    nif:endIndex "34472" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_34473_34726> a nif:Sentence ;
+    nif:anchorOf "Anti-abortion groups who favor greater legal restrictions on abortion, including complete prohibition, most often describe themselves as \"pro-life\" while abortion rights groups who are against such legal restrictions describe themselves as \"pro-choice\"." ;
+    nif:beginIndex "34473" ;
+    nif:endIndex "34726" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_346_471> a nif:Sentence ;
+    nif:anchorOf "A similar procedure after the fetus could potentially survive outside the womb is known as a \"late termination of pregnancy\"." ;
+    nif:beginIndex "346" ;
+    nif:endIndex "471" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_34727_34867> a nif:Sentence ;
+    nif:anchorOf "Generally, the former position argues that a human fetus is a human person with a right to live, making abortion morally the same as murder." ;
+    nif:beginIndex "34727" ;
+    nif:endIndex "34867" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_3484_3621> a nif:Sentence ;
+    nif:anchorOf "An abortion is referred to as an elective or voluntary abortion when it is performed at the request of the woman for non-medical reasons." ;
+    nif:beginIndex "3484" ;
+    nif:endIndex "3621" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_34868_35007> a nif:Sentence ;
+    nif:anchorOf "The latter position argues that a woman has certain reproductive rights, especially the choice whether or not to carry a pregnancy to term." ;
+    nif:beginIndex "34868" ;
+    nif:endIndex "35007" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_35009_35149> a nif:Sentence ;
+    nif:anchorOf """Modern abortion law
+(Main article: Abortion law)
+(See also: History of abortion law debate)
+Current laws pertaining to abortion are diverse.""" ;
+    nif:beginIndex "35009" ;
+    nif:endIndex "35149" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_35150_35252> a nif:Sentence ;
+    nif:anchorOf "Religious, moral, and cultural sensibilities continue to influence abortion laws throughout the world." ;
+    nif:beginIndex "35150" ;
+    nif:endIndex "35252" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_35253_35496> a nif:Sentence ;
+    nif:anchorOf "The right to life, the right to liberty, the right to security of person, and the right to reproductive health are major issues of human rights that are sometimes used as justification for the existence or absence of laws controlling abortion." ;
+    nif:beginIndex "35253" ;
+    nif:endIndex "35496" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_35497_35702> a nif:Sentence ;
+    nif:anchorOf "In jurisdictions where abortion is legal, certain requirements must often be met before a woman may obtain a safe, legal abortion (an abortion performed without the woman's consent is considered feticide)." ;
+    nif:beginIndex "35497" ;
+    nif:endIndex "35702" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_35703_35903> a nif:Sentence ;
+    nif:anchorOf "These requirements usually depend on the age of the fetus, often using a trimester-based system to regulate the window of legality, or as in the U.S., on a doctor's evaluation of the fetus' viability." ;
+    nif:beginIndex "35703" ;
+    nif:endIndex "35903" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_35904_36116> a nif:Sentence ;
+    nif:anchorOf "Some jurisdictions require a waiting period before the procedure, prescribe the distribution of information on fetal development, or require that parents be contacted if their minor daughter requests an abortion." ;
+    nif:beginIndex "35904" ;
+    nif:endIndex "36116" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_36117_36473> a nif:Sentence ;
+    nif:anchorOf "Other jurisdictions may require that a woman obtain the consent of the fetus' father before aborting the fetus, that abortion providers inform women of health risks of the procedure—sometimes including \"risks\" not supported by the medical literature—and that multiple medical authorities certify that the abortion is either medically or socially necessary." ;
+    nif:beginIndex "36117" ;
+    nif:endIndex "36473" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_3622_3779> a nif:Sentence ;
+    nif:anchorOf "Confusion sometimes arises over the term \"elective\" because \"elective surgery\" generally refers to all scheduled surgery, whether medically necessary or not." ;
+    nif:beginIndex "3622" ;
+    nif:endIndex "3779" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_36474_36527> a nif:Sentence ;
+    nif:anchorOf "Many restrictions are waived in emergency situations." ;
+    nif:beginIndex "36474" ;
+    nif:endIndex "36527" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_36528_36656> a nif:Sentence ;
+    nif:anchorOf "China, which has a one-child policy, has at times incorporated mandatory abortions as part of their population control strategy." ;
+    nif:beginIndex "36528" ;
+    nif:endIndex "36656" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_36657_36706> a nif:Sentence ;
+    nif:anchorOf "Other jurisdictions ban abortion almost entirely." ;
+    nif:beginIndex "36657" ;
+    nif:endIndex "36706" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_36707_36787> a nif:Sentence ;
+    nif:anchorOf "Many, but not all, of these allow legal abortions in a variety of circumstances." ;
+    nif:beginIndex "36707" ;
+    nif:endIndex "36787" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_36788_37057> a nif:Sentence ;
+    nif:anchorOf "These circumstances vary based on jurisdiction, but may include whether the pregnancy is a result of rape or incest, the fetus' development is impaired, the woman's physical or mental well-being is endangered, or socioeconomic considerations make childbirth a hardship." ;
+    nif:beginIndex "36788" ;
+    nif:endIndex "37057" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_37058_37325> a nif:Sentence ;
+    nif:anchorOf "In countries where abortion is banned entirely, such as Nicaragua, medical authorities have recorded rises in maternal death directly and indirectly due to pregnancy as well as deaths due to doctors' fears of prosecution if they treat other gynecological emergencies." ;
+    nif:beginIndex "37058" ;
+    nif:endIndex "37325" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_37326_37476> a nif:Sentence ;
+    nif:anchorOf "Some countries, such as Bangladesh, that nominally ban abortion, may also support clinics that perform abortions under the guise of menstrual hygiene." ;
+    nif:beginIndex "37326" ;
+    nif:endIndex "37476" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_37477_37528> a nif:Sentence ;
+    nif:anchorOf "This is also a terminology in traditional medicine." ;
+    nif:beginIndex "37477" ;
+    nif:endIndex "37528" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_37529_37709> a nif:Sentence ;
+    nif:anchorOf "In places where abortion is illegal or carries heavy social stigma, pregnant women may engage in medical tourism and travel to countries where they can terminate their pregnancies." ;
+    nif:beginIndex "37529" ;
+    nif:endIndex "37709" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_37710_37837> a nif:Sentence ;
+    nif:anchorOf "Women without the means to travel can resort to providers of illegal abortions or attempt to perform an abortion by themselves." ;
+    nif:beginIndex "37710" ;
+    nif:endIndex "37837" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_3781_3957> a nif:Sentence ;
+    nif:anchorOf """Spontaneous
+(Main article: Miscarriage)
+Spontaneous abortion, also known as miscarriage, is the unintentional expulsion of an embryo or fetus before the 24th week of gestation.""" ;
+    nif:beginIndex "3781" ;
+    nif:endIndex "3957" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_37839_37979> a nif:Sentence ;
+    nif:anchorOf """Sex-selective abortion
+(Main article: Sex-selective abortion)
+Sonography and amniocentesis allow parents to determine sex before childbirth.""" ;
+    nif:beginIndex "37839" ;
+    nif:endIndex "37979" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_37980_38093> a nif:Sentence ;
+    nif:anchorOf "The development of this technology has led to sex-selective abortion, or the termination of a fetus based on sex." ;
+    nif:beginIndex "37980" ;
+    nif:endIndex "38093" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_38094_38153> a nif:Sentence ;
+    nif:anchorOf "The selective termination of a female fetus is most common." ;
+    nif:beginIndex "38094" ;
+    nif:endIndex "38153" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_38154_38303> a nif:Sentence ;
+    nif:anchorOf "Sex-selective abortion is partially responsible for the noticeable disparities between the birth rates of male and female children in some countries." ;
+    nif:beginIndex "38154" ;
+    nif:endIndex "38303" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_38304_38472> a nif:Sentence ;
+    nif:anchorOf "The preference for male children is reported in many areas of Asia, and abortion used to limit female births has been reported in Taiwan, South Korea, India, and China." ;
+    nif:beginIndex "38304" ;
+    nif:endIndex "38472" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_38473_38664> a nif:Sentence ;
+    nif:anchorOf "This deviation from the standard birth rates of males and females occurs despite the fact that the country in question may have officially banned sex-selective abortion or even sex-screening." ;
+    nif:beginIndex "38473" ;
+    nif:endIndex "38664" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_38665_38788> a nif:Sentence ;
+    nif:anchorOf "In China, a historical preference for a male child has been exacerbated by the one-child policy, which was enacted in 1979." ;
+    nif:beginIndex "38665" ;
+    nif:endIndex "38788" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_38789_38883> a nif:Sentence ;
+    nif:anchorOf "Many countries have taken legislative steps to reduce the incidence of sex-selective abortion." ;
+    nif:beginIndex "38789" ;
+    nif:endIndex "38883" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_38884_39148> a nif:Sentence ;
+    nif:anchorOf "At the International Conference on Population and Development in 1994 over 180 states agreed to eliminate \"all forms of discrimination against the girl child and the root causes of son preference\", conditions which were also condemned by a PACE resolution in 2011." ;
+    nif:beginIndex "38884" ;
+    nif:endIndex "39148" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_39149_39389> a nif:Sentence ;
+    nif:anchorOf "The World Health Organization and UNICEF, along with other United Nations agencies, have found that measures to reduce access to abortion are much less effective at reducing sex-selective abortions than measures to reduce gender inequality." ;
+    nif:beginIndex "39149" ;
+    nif:endIndex "39389" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_39391_39651> a nif:Sentence ;
+    nif:anchorOf """Anti-abortion violence
+(Main article: Anti-abortion violence)
+In a number of cases, abortion providers and these facilities have been subjected to various forms of violence, including murder, attempted murder, kidnapping, stalking, assault, arson, and bombing.""" ;
+    nif:beginIndex "39391" ;
+    nif:endIndex "39651" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_3958_4094> a nif:Sentence ;
+    nif:anchorOf "A pregnancy that ends before 37 weeks of gestation resulting in a live-born infant is known as a \"premature birth\" or a \"preterm birth\"." ;
+    nif:beginIndex "3958" ;
+    nif:endIndex "4094" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_39652_39745> a nif:Sentence ;
+    nif:anchorOf "Anti-abortion violence is classified by both governmental and scholarly sources as terrorism." ;
+    nif:beginIndex "39652" ;
+    nif:endIndex "39745" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_39746_39813> a nif:Sentence ;
+    nif:anchorOf "Only a small fraction of those opposed to abortion commit violence." ;
+    nif:beginIndex "39746" ;
+    nif:endIndex "39813" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_39814_39985> a nif:Sentence ;
+    nif:anchorOf "In the United States, four physicians who performed abortions have been murdered: David Gunn (1993), John Britton (1994), Barnett Slepian (1998), and George Tiller (2009)." ;
+    nif:beginIndex "39814" ;
+    nif:endIndex "39985" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_39986_40196> a nif:Sentence ;
+    nif:anchorOf "Also murdered, in the U.S. and Australia, have been other personnel at abortion clinics, including receptionists and security guards such as James Barrett, Shannon Lowney, Lee Ann Nichols, and Robert Sanderson." ;
+    nif:beginIndex "39986" ;
+    nif:endIndex "40196" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_40197_40306> a nif:Sentence ;
+    nif:anchorOf "Woundings (e.g., Garson Romalis) and attempted murders have also taken place in the United States and Canada." ;
+    nif:beginIndex "40197" ;
+    nif:endIndex "40306" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_40307_40430> a nif:Sentence ;
+    nif:anchorOf "Hundreds of bombings, arsons, acid attacks, invasions, and incidents of vandalism against abortion providers have occurred." ;
+    nif:beginIndex "40307" ;
+    nif:endIndex "40430" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_40431_40650> a nif:Sentence ;
+    nif:anchorOf "Notable perpetrators of anti-abortion violence include Eric Robert Rudolph, Scott Roeder, Shelley Shannon, and Paul Jennings Hill, the first person to be executed in the United States for murdering an abortion provider." ;
+    nif:beginIndex "40431" ;
+    nif:endIndex "40650" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_40651_40751> a nif:Sentence ;
+    nif:anchorOf "Legal protection of access to abortion has been brought into some countries where abortion is legal." ;
+    nif:beginIndex "40651" ;
+    nif:endIndex "40751" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_40752_40946> a nif:Sentence ;
+    nif:anchorOf "These laws typically seek to protect abortion clinics from obstruction, vandalism, picketing, and other actions, or to protect women and employees of such facilities from threats and harassment." ;
+    nif:beginIndex "40752" ;
+    nif:endIndex "40946" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_40947_41012> a nif:Sentence ;
+    nif:anchorOf "Far more common than physical violence is psychological pressure." ;
+    nif:beginIndex "40947" ;
+    nif:endIndex "41012" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_4095_4192> a nif:Sentence ;
+    nif:anchorOf "When a fetus dies in utero after viability, or during delivery, it is usually termed \"stillborn\"." ;
+    nif:beginIndex "4095" ;
+    nif:endIndex "4192" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_41013_41155> a nif:Sentence ;
+    nif:anchorOf "In 2003, Chris Danze organized pro-life organizations throughout Texas to prevent the construction of a Planned Parenthood facility in Austin." ;
+    nif:beginIndex "41013" ;
+    nif:endIndex "41155" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_41156_41325> a nif:Sentence ;
+    nif:anchorOf "The organizations released the personal information online, of those involved with construction, sending them up to 1200 phone calls a day and contacting their churches." ;
+    nif:beginIndex "41156" ;
+    nif:endIndex "41325" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_41326_41382> a nif:Sentence ;
+    nif:anchorOf "Some protestors record women entering clinics on camera." ;
+    nif:beginIndex "41326" ;
+    nif:endIndex "41382" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_41384_41480> a nif:Sentence ;
+    nif:anchorOf """Other animals
+(Further information: Miscarriage)
+Spontaneous abortion occurs in various animals.""" ;
+    nif:beginIndex "41384" ;
+    nif:endIndex "41480" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_41481_41572> a nif:Sentence ;
+    nif:anchorOf "For example, in sheep, it may be caused by crowding through doors, or being chased by dogs." ;
+    nif:beginIndex "41481" ;
+    nif:endIndex "41572" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_41573_41709> a nif:Sentence ;
+    nif:anchorOf "In cows, abortion may be caused by contagious disease, such as brucellosis or Campylobacter, but can often be controlled by vaccination." ;
+    nif:beginIndex "41573" ;
+    nif:endIndex "41709" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_41710_41764> a nif:Sentence ;
+    nif:anchorOf "Eating pine needles can also induce abortions in cows." ;
+    nif:beginIndex "41710" ;
+    nif:endIndex "41764" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_41765_41881> a nif:Sentence ;
+    nif:anchorOf "In horses, a fetus may be aborted or resorbed if it has lethal white syndrome (congenital intestinal aganglionosis)." ;
+    nif:beginIndex "41765" ;
+    nif:endIndex "41881" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_41882_42006> a nif:Sentence ;
+    nif:anchorOf "Foal embryos that are homozygous for the dominant white gene (WW) are theorized to also be aborted or resorbed before birth." ;
+    nif:beginIndex "41882" ;
+    nif:endIndex "42006" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_4193_4326> a nif:Sentence ;
+    nif:anchorOf "Premature births and stillbirths are generally not considered to be miscarriages although usage of these terms can sometimes overlap." ;
+    nif:beginIndex "4193" ;
+    nif:endIndex "4326" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_42007_42050> a nif:Sentence ;
+    nif:anchorOf "Viral infection can cause abortion in dogs." ;
+    nif:beginIndex "42007" ;
+    nif:endIndex "42050" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_42051_42139> a nif:Sentence ;
+    nif:anchorOf "Cats can experience spontaneous abortion for many reasons, including hormonal imbalance." ;
+    nif:beginIndex "42051" ;
+    nif:endIndex "42139" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_42140_42428> a nif:Sentence ;
+    nif:anchorOf "A combined abortion and spaying is performed on pregnant cats, especially in Trap-Neuter-Return programs, to prevent unwanted kittens from being born.Female rodents may terminate a pregnancy when exposed to the smell of a male not responsible for the pregnancy, known as the Bruce effect." ;
+    nif:beginIndex "42140" ;
+    nif:endIndex "42428" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_42429_42505> a nif:Sentence ;
+    nif:anchorOf "Abortion may also be induced in animals, in the context of animal husbandry." ;
+    nif:beginIndex "42429" ;
+    nif:endIndex "42505" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_42506_42705> a nif:Sentence ;
+    nif:anchorOf "For example, abortion may be induced in mares that have been mated improperly, or that have been purchased by owners who did not realize the mares were pregnant, or that are pregnant with twin foals." ;
+    nif:beginIndex "42506" ;
+    nif:endIndex "42705" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_42706_42864> a nif:Sentence ;
+    nif:anchorOf "Feticide can occur in horses and zebras due to male harassment of pregnant mares or forced copulation, although the frequency in the wild has been questioned." ;
+    nif:beginIndex "42706" ;
+    nif:endIndex "42864" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_42865_42954> a nif:Sentence ;
+    nif:anchorOf "Male gray langur monkeys may attack females following male takeover, causing miscarriage." ;
+    nif:beginIndex "42865" ;
+    nif:endIndex "42954" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_42956_43042> a nif:Sentence ;
+    nif:anchorOf """References
+
+
+Citations
+
+
+Notes
+
+
+External links
+
+*  Organization, World Health (2012).""" ;
+    nif:beginIndex "42956" ;
+    nif:endIndex "43042" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_43043_43123> a nif:Sentence ;
+    nif:anchorOf "Safe abortion: technical and policy guidance for health systems (PDF) (2nd ed.)." ;
+    nif:beginIndex "43043" ;
+    nif:endIndex "43123" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_43124_43158> a nif:Sentence ;
+    nif:anchorOf "Geneva: World Health Organization." ;
+    nif:beginIndex "43124" ;
+    nif:endIndex "43158" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_43159_43178> a nif:Sentence ;
+    nif:anchorOf "ISBN 9789241548434." ;
+    nif:beginIndex "43159" ;
+    nif:endIndex "43178" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_43180_43250> a nif:Sentence ;
+    nif:anchorOf "*  Abortion Policies: A Global Review, published by the United Nations" ;
+    nif:beginIndex "43180" ;
+    nif:endIndex "43250" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_4327_4392> a nif:Sentence ;
+    nif:anchorOf "Only 30% to 50% of conceptions progress past the first trimester." ;
+    nif:beginIndex "4327" ;
+    nif:endIndex "4392" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_4393_4575> a nif:Sentence ;
+    nif:anchorOf "The vast majority of those that do not progress are lost before the woman is aware of the conception, and many pregnancies are lost before medical practitioners can detect an embryo." ;
+    nif:beginIndex "4393" ;
+    nif:endIndex "4575" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_4576_4713> a nif:Sentence ;
+    nif:anchorOf "Between 15% and 30% of known pregnancies end in clinically apparent miscarriage, depending upon the age and health of the pregnant woman." ;
+    nif:beginIndex "4576" ;
+    nif:endIndex "4713" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_4714_4779> a nif:Sentence ;
+    nif:anchorOf "80% of these spontaneous abortions happen in the first trimester." ;
+    nif:beginIndex "4714" ;
+    nif:endIndex "4779" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_472_535> a nif:Sentence ;
+    nif:anchorOf "When allowed by local law, abortion in the developed world is ." ;
+    nif:beginIndex "472" ;
+    nif:endIndex "535" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_4780_4968> a nif:Sentence ;
+    nif:anchorOf "The most common cause of spontaneous abortion during the first trimester is chromosomal abnormalities of the embryo or fetus, accounting for at least 50% of sampled early pregnancy losses." ;
+    nif:beginIndex "4780" ;
+    nif:endIndex "4968" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_4969_5102> a nif:Sentence ;
+    nif:anchorOf "Other causes include vascular disease (such as lupus), diabetes, other hormonal problems, infection, and abnormalities of the uterus." ;
+    nif:beginIndex "4969" ;
+    nif:endIndex "5102" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_5103_5265> a nif:Sentence ;
+    nif:anchorOf "Advancing maternal age and a women's history of previous spontaneous abortions are the two leading factors associated with a greater risk of spontaneous abortion." ;
+    nif:beginIndex "5103" ;
+    nif:endIndex "5265" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_5266_5423> a nif:Sentence ;
+    nif:anchorOf "A spontaneous abortion can also be caused by accidental trauma; intentional trauma or stress to cause miscarriage is considered induced abortion or feticide." ;
+    nif:beginIndex "5266" ;
+    nif:endIndex "5423" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_536_591> a nif:Sentence ;
+    nif:anchorOf "Modern methods use medication or surgery for abortions." ;
+    nif:beginIndex "536" ;
+    nif:endIndex "591" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_5425_5545> a nif:Sentence ;
+    nif:anchorOf """Methods
+
+
+Medical
+(Main article: Medical abortion)
+Medical abortions are those induced by abortifacient pharmaceuticals.""" ;
+    nif:beginIndex "5425" ;
+    nif:endIndex "5545" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_5546_5737> a nif:Sentence ;
+    nif:anchorOf "Medical abortion became an alternative method of abortion with the availability of prostaglandin analogs in the 1970s and the antiprogestogen mifepristone (also known as RU-486) in the 1980s." ;
+    nif:beginIndex "5546" ;
+    nif:endIndex "5737" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_5738_6033> a nif:Sentence ;
+    nif:anchorOf "The most common early first-trimester medical abortion regimens use mifepristone in combination with a prostaglandin analog (misoprostol or gemeprost) up to 9 weeks gestational age, methotrexate in combination with a prostaglandin analog up to 7 weeks gestation, or a prostaglandin analog alone." ;
+    nif:beginIndex "5738" ;
+    nif:endIndex "6033" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_592_746> a nif:Sentence ;
+    nif:anchorOf "The drug mifepristone in combination with prostaglandin appears to be as safe and effective as surgery during the first and second trimester of pregnancy." ;
+    nif:beginIndex "592" ;
+    nif:endIndex "746" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_6034_6260> a nif:Sentence ;
+    nif:anchorOf "Mifepristone–misoprostol combination regimens work faster and are more effective at later gestational ages than methotrexate–misoprostol combination regimens, and combination regimens are more effective than misoprostol alone." ;
+    nif:beginIndex "6034" ;
+    nif:endIndex "6260" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_6261_6310> a nif:Sentence ;
+    nif:anchorOf "This regime is effective in the second trimester." ;
+    nif:beginIndex "6261" ;
+    nif:endIndex "6310" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_6311_6601> a nif:Sentence ;
+    nif:anchorOf "In very early abortions, up to 7 weeks gestation, medical abortion using a mifepristone–misoprostol combination regimen is considered to be more effective than surgical abortion (vacuum aspiration), especially when clinical practice does not include detailed inspection of aspirated tissue." ;
+    nif:beginIndex "6311" ;
+    nif:endIndex "6601" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_6602_6762> a nif:Sentence ;
+    nif:anchorOf "Early medical abortion regimens using mifepristone, followed 24–48 hours later by buccal or vaginal misoprostol are 98% effective up to 9 weeks gestational age." ;
+    nif:beginIndex "6602" ;
+    nif:endIndex "6762" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_6763_6847> a nif:Sentence ;
+    nif:anchorOf "If medical abortion fails, surgical abortion must be used to complete the procedure." ;
+    nif:beginIndex "6763" ;
+    nif:endIndex "6847" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_6848_6993> a nif:Sentence ;
+    nif:anchorOf "Early medical abortions account for the majority of abortions before 9 weeks gestation in Britain, France, Switzerland, and the Nordic countries." ;
+    nif:beginIndex "6848" ;
+    nif:endIndex "6993" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_6994_7071> a nif:Sentence ;
+    nif:anchorOf "In the United States, the percentage of early medical abortions is far lower." ;
+    nif:beginIndex "6994" ;
+    nif:endIndex "7071" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_7072_7393> a nif:Sentence ;
+    nif:anchorOf "Medical abortion regimens using mifepristone in combination with a prostaglandin analog are the most common methods used for second-trimester abortions in Canada, most of Europe, China and India, in contrast to the United States where 96% of second-trimester abortions are performed surgically by dilation and evacuation." ;
+    nif:beginIndex "7072" ;
+    nif:endIndex "7393" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_7395_7528> a nif:Sentence ;
+    nif:anchorOf """Surgical
+Up to 15 weeks' gestation, suction-aspiration or vacuum aspiration are the most common surgical methods of induced abortion.""" ;
+    nif:beginIndex "7395" ;
+    nif:endIndex "7528" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_747_847> a nif:Sentence ;
+    nif:anchorOf "Birth control, such as the pill or intrauterine devices, can be used immediately following abortion." ;
+    nif:beginIndex "747" ;
+    nif:endIndex "847" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_7529_7722> a nif:Sentence ;
+    nif:anchorOf "Manual vacuum aspiration (MVA) consists of removing the fetus or embryo, placenta, and membranes by suction using a manual syringe, while electric vacuum aspiration (EVA) uses an electric pump." ;
+    nif:beginIndex "7529" ;
+    nif:endIndex "7722" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_7723_7877> a nif:Sentence ;
+    nif:anchorOf "These techniques differ in the mechanism used to apply suction, in how early in pregnancy they can be used, and in whether cervical dilation is necessary." ;
+    nif:beginIndex "7723" ;
+    nif:endIndex "7877" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_7878_8016> a nif:Sentence ;
+    nif:anchorOf "MVA, also known as \"mini-suction\" and \"menstrual extraction\", can be used in very early pregnancy, and does not require cervical dilation." ;
+    nif:beginIndex "7878" ;
+    nif:endIndex "8016" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_8017_8291> a nif:Sentence ;
+    nif:anchorOf "Dilation and curettage (D&C), the second most common method of surgical abortion, is a standard gynecological procedure performed for a variety of reasons, including examination of the uterine lining for possible malignancy, investigation of abnormal bleeding, and abortion." ;
+    nif:beginIndex "8017" ;
+    nif:endIndex "8291" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_8292_8360> a nif:Sentence ;
+    nif:anchorOf "Curettage refers to cleaning the walls of the uterus with a curette." ;
+    nif:beginIndex "8292" ;
+    nif:endIndex "8360" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_8361_8476> a nif:Sentence ;
+    nif:anchorOf "The World Health Organization recommends this procedure, also called sharp curettage, only when MVA is unavailable." ;
+    nif:beginIndex "8361" ;
+    nif:endIndex "8476" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_8477_8569> a nif:Sentence ;
+    nif:anchorOf "From the 15th week of gestation until approximately the 26th, other techniques must be used." ;
+    nif:beginIndex "8477" ;
+    nif:endIndex "8569" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_848_967> a nif:Sentence ;
+    nif:anchorOf "When performed legally and safely, induced abortions do not increase the risk of long-term mental or physical problems." ;
+    nif:beginIndex "848" ;
+    nif:endIndex "967" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_8570_8700> a nif:Sentence ;
+    nif:anchorOf "Dilation and evacuation (D&E) consists of opening the cervix of the uterus and emptying it using surgical instruments and suction." ;
+    nif:beginIndex "8570" ;
+    nif:endIndex "8700" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_8701_8931> a nif:Sentence ;
+    nif:anchorOf "After the 16th week of gestation, abortions can also be induced by intact dilation and extraction (IDX) (also called intrauterine cranial decompression), which requires surgical decompression of the fetus's head before evacuation." ;
+    nif:beginIndex "8701" ;
+    nif:endIndex "8931" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_8932_9035> a nif:Sentence ;
+    nif:anchorOf "IDX is sometimes called \"partial-birth abortion\", which has been federally banned in the United States." ;
+    nif:beginIndex "8932" ;
+    nif:endIndex "9035" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_9036_9170> a nif:Sentence ;
+    nif:anchorOf "In the third trimester of pregnancy, induced abortion may be performed surgically by intact dilation and extraction or by hysterotomy." ;
+    nif:beginIndex "9036" ;
+    nif:endIndex "9170" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_9171_9280> a nif:Sentence ;
+    nif:anchorOf "Hysterotomy abortion is a procedure similar to a caesarean section and is performed under general anesthesia." ;
+    nif:beginIndex "9171" ;
+    nif:endIndex "9280" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_9281_9382> a nif:Sentence ;
+    nif:anchorOf "It requires a smaller incision than a caesarean section and is used during later stages of pregnancy." ;
+    nif:beginIndex "9281" ;
+    nif:endIndex "9382" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_9383_9540> a nif:Sentence ;
+    nif:anchorOf "First-trimester procedures can generally be performed using local anesthesia, while second-trimester methods may require deep sedation or general anesthesia." ;
+    nif:beginIndex "9383" ;
+    nif:endIndex "9540" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_9542_9774> a nif:Sentence ;
+    nif:anchorOf """Labor induction abortion
+In places lacking the necessary medical skill for dilation and extraction, or where preferred by practitioners, an abortion can be induced by first inducing labor and then inducing fetal demise if necessary.""" ;
+    nif:beginIndex "9542" ;
+    nif:endIndex "9774" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_968_1062> a nif:Sentence ;
+    nif:anchorOf "In contrast, unsafe abortions cause 47,000 deaths and 5 million hospital admissions each year." ;
+    nif:beginIndex "968" ;
+    nif:endIndex "1062" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_9775_9822> a nif:Sentence ;
+    nif:anchorOf "This is sometimes called \"induced miscarriage\"." ;
+    nif:beginIndex "9775" ;
+    nif:endIndex "9822" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_9823_9902> a nif:Sentence ;
+    nif:anchorOf "This procedure may be performed from 13 weeks gestation to the third trimester." ;
+    nif:beginIndex "9823" ;
+    nif:endIndex "9902" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=sentence_9903_10086> a nif:Sentence ;
+    nif:anchorOf "Although it is very uncommon in the United States, more than 80% of induced abortions throughout the second trimester are labor induced abortions in Sweden and other nearby countries." ;
+    nif:beginIndex "9903" ;
+    nif:endIndex "10086" ;
+    nif:referenceContext <http://dbpedia.org/resource/Abortion?dbpv=2016-10&nif=context> .
+
