@@ -3,7 +3,7 @@ Enrichment of DBpedia NIF Dataset is a compilation of Bash and Python3 scripts t
 Processing tasks on wikipedia on normal off-the-shelf hardware (e.g., a quad-core CPU, 8 GB of main memory, and 250 GB hard disk 
 storage). 
 
-Step 1:
+STEP 1:
 Download the "nif_context_<language>.ttl" file from https://wiki.dbpedia.org/downloads-2016-10 . Languages supported by this project are 
 English, French, German, Spanish and Japanese. So make sure you download the nif-context for any one of these languages. 	
 
@@ -11,7 +11,7 @@ Download nif_text_links_<language>.ttl from the https://wiki.dbpedia.org/ and ru
 downloaded location of nif_text_links. It creates a CSV file with all links,surface forms and their Part of Speech. This is a           
 mandatory step for performing link enrichment task.
 
-Step 2:
+STEP 2:
 Run the 'separate_scripts.sh' by giving an argument -p followed by the path to the location of "nif_context_<language>.ttl" in your 
 system. This is a preprocessing step to perform various Natural Language Processing tasks on individual articles. 
 
@@ -31,7 +31,7 @@ Files/Inputes folder)
 ./separate_scripts.sh -p F:/Master_thesis/nif_text_links_fr.ttl (Creates a CSV file with all the surfaceforms-Links-POS and store in 
 Files/LinkDataset.csv for French Language) 
 
-Step 3:
+STEP 3:
 Perform various NLP tasks by running 'runme.sh' with the following arguments :
 1) Language (-l) - "en" for english, "fr" for French, "de" for German, "ja" for Japanese, "es" for spanish
 		 Default language is English if the language parameter is not specified. 
