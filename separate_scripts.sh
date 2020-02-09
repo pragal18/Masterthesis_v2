@@ -12,7 +12,7 @@ done
 # Print helpFunction in case parameters are empty
 if [ -z "$parameterA" ] 
 then
-   echo "Please enter path to nif-context file downloaded from DBPedia";
+   echo "Please enter path to nif-context/nif-text-links file downloaded from DBPedia";
 fi
 
 if [ -z "$parameterB" ] 
@@ -20,8 +20,11 @@ then
 	if echo "$parameterA" | grep 'context'; 
 	then
 		python final_scripts/separation_context.py $parameterA 
+	elif echo "$parameterA" | grep 'links';
+	then 
+		python final_scripts/generating_link_dataset.py $parameterA
 	else
-		echo "Please enter correct path to nif-context file downloaded from DBPedia";
+		echo "Please enter correct path to nif-context/nif-text-links file downloaded from DBPedia";
 	fi
 	
 else
