@@ -66,7 +66,8 @@ Positional arguments:
   
 Optional arguments:
      -s SEARCH,            
-                          Enter the name of an article that you would like to perform the NLP task on. You have the option to specify -t 			   ALL to have all NLP tasks performed for that article. There is no need to mention -n in this case.
+                          Enter the name of an article that you would like to perform the NLP task on. You have the option to specify -t 
+			  ALL to have all NLP tasks performed for that article. There is no need to mention -n in this case.
      -e TOOL,              
     			  Natural Language ToolKit (NLTK)
 			  SPACYIO (SIO)
