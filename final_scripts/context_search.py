@@ -4,7 +4,7 @@ import sys
 previousSubject=None
 path=sys.argv[1]
 search=sys.argv[2]
-print(search)
+print(search.title())
 check=path[len(path)-6:len(path)-4]
 if check=="en":
 	i=29
@@ -12,7 +12,7 @@ else:
 	i=32
 with open(path,encoding="utf-8") as openfileobject:
 	for line in openfileobject:
-		if 'dbpedia.org/resource/'+search+'' in line:
+		if 'dbpedia.org/resource/'+search.title()+'' in line:
 			s=line.find('?')
 			thisSubject=line[i:s]
 			if previousSubject==thisSubject:
