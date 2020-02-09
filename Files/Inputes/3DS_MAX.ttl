@@ -1,0 +1,1 @@
+<http://es.dbpedia.org/resource/3DS_MAX?dbpv=2016-10&nif=context> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#predLang> <http://lexvo.org/id/iso639-3/spa> .
