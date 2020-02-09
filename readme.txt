@@ -10,14 +10,19 @@ English, French, German, Spanish and Japanese. So make sure you download the nif
 Step 2:
 Run the 'separate_scripts.sh' by giving an argument -p followed by the path to the location of "nif_context_<language>.ttl" in your 
 system. This is a preprocessing step to perform various Natural Language Processing tasks on individual articles. 
-Example - ./separate_scripts.sh -p F:/Master_thesis/nif_context_en.ttl
 
-Also you could run the script along with search argument -s , i.e if you want to extract only a subset of "nif_context_<language>.ttl".
-//Extract all articles that starts with "St"
-./separate_scripts.sh -p F:/Master_thesis/nif_context_en.ttl -s St
+Positional argument:
+	-p PATH,
+		Specify the location to downloaded nif-context file. 
+Optional argument:
+	-s Search,
+		Specify the file or subset of files that needs to be extracted from nif-context file
+Example 
+./separate_scripts.sh -p F:/Master_thesis/nif_context_de.ttl (Extracts all the Wikipedia articles in German language and stores in Files/Inputde folder)
 
-//Extract only the article "Augustus"
-./separate_scripts.sh -p F:/Master_thesis/nif_context_en.ttl -s Augustus
+./separate_scripts.sh -p F:/Master_thesis/nif_context_en.ttl -s St (Extracts all articles that starts with "St" in English Language and stores in Files/Inputen folder)
+
+./separate_scripts.sh -p F:/Master_thesis/nif_context_es.ttl -s Augustus (Extracts Auguste
 
 Step 3:
 Perform various NLP tasks by running 'runme.sh' with the following arguments :
@@ -74,14 +79,14 @@ Examples
 ./runme.sh -t ALL -s Apollos (Performs all 4 NLP tasks for the article Apollos)
 ./runme.sh -t TOK -n 100 -l de -e SIO (Perform Tokenisation on 100 German articles via Spacy IO)
 
-
 PROCESSING 
+	Download nif_context_en.ttl from the https://wiki.dbpedia.org/ and run the separate_scripts.sh pointing the path to downloaded 	         location of nif_context. This separates the nif_context_en to RDF triples of individual articles and stores them in 		         Files/Inputen. If you download nif_context_fr.ttl then output gets stored in Files/Inputfr. Similarly Spanish nif_context_es.ttl         gets stored in Files/Inputes and Files/Inputde for German. 
+	
+	
 	
 OUTPUT
 	Results of sentence-splitting task gets stored in Files/Sentence folder in RDF triples.
 	Results of Tokenization task gets stored in Files/Tokens in RDF triples.
 	Results of Part of speech tasks gets stored in the Files/POS in RDF triples on the same name as the article.
 	Results of Link Enrichment task gets stored in Files/Links in RDF format.
-	Results of Search tasks gets stored on Files/Search with name of the article followed by task in RDF format.
-	
-	
+	Results of Search tasks gets stored on Files/Search with name of the article followed by task in RDF format.	
