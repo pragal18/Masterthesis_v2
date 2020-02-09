@@ -5,7 +5,11 @@ storage).
 
 Step 1:
 Download the "nif_context_<language>.ttl" file from https://wiki.dbpedia.org/downloads-2016-10 . Languages supported by this project are 
-English, French, German, Spanish and Japanese. So make sure you download the nif-context for any one of these languages
+English, French, German, Spanish and Japanese. So make sure you download the nif-context for any one of these languages. 	
+
+Download nif_text_links_<language>.ttl from the https://wiki.dbpedia.org/ and run the separate_scripts.sh pointing the path of  	
+downloaded location of nif_text_links. It creates a CSV file with all links,surface forms and their Part of Speech. This is a           
+mandatory step for performing link enrichment task.
 
 Step 2:
 Run the 'separate_scripts.sh' by giving an argument -p followed by the path to the location of "nif_context_<language>.ttl" in your 
@@ -19,12 +23,12 @@ Optional argument:
 		Specify the file or subset of files that needs to be extracted from nif-context file
 Example 
 ./separate_scripts.sh -p F:/Master_thesis/nif_context_de.ttl (Extracts all the Wikipedia articles in German language and stores in Files/Inputde folder)
-
 ./separate_scripts.sh -p F:/Master_thesis/nif_context_en.ttl -s St (Extracts all articles that starts with "St" in English Language and 
 stores in Files/Inputen folder)
-
 ./separate_scripts.sh -p F:/Master_thesis/nif_context_es.ttl -s 5 (Extracts the article 5 in Spanish Language and stores in 
 Files/Inputes folder)
+./separate_scripts.sh -p F:/Master_thesis/nif_text_links_fr.ttl (Creates a CSV file with all the surfaceforms-Links-POS and store in 
+Files/LinkDataset.csv for French Language) 
 
 Step 3:
 Perform various NLP tasks by running 'runme.sh' with the following arguments :
@@ -87,6 +91,9 @@ PROCESSING
 	location of nif_context. This separates the nif_context_en to RDF triples of individual articles and stores them in 		 
 	Files/Inputen. If you download nif_context_fr.ttl then output gets stored in Files/Inputfr. Similarly Spanish nif_context_es.ttl 
 	gets stored in Files/Inputes and Files/Inputde for German. 
+	
+	Download nif_text_links_en.ttl from the https://wiki.dbpedia.org/ and run the separate_scripts.sh pointing the path to  	
+	downloaded location of nif_text_links. It creates a CSV file with all links,surface forms and their Part of Speech This is aa           mandatory step for performing link enrichment task. 
 	
 OUTPUT
 	Results of sentence-splitting task gets stored in Files/Sentence folder in RDF triples.
