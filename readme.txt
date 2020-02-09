@@ -36,7 +36,8 @@ Perform various NLP tasks by running 'runme.sh' with the following arguments :
 
 
 PROCESSING 
-	We downloads the required DBpedia NIF files from https://wiki.dbpedia.org/downloads-2016-10 , separate into individual articles , perform NLP tasks on various languages with a variety of tools. 
+	We downloads the required DBpedia NIF files from https://wiki.dbpedia.org/downloads-2016-10 , separate into individual articles 
+	, perform NLP tasks on various languages with a variety of tools. 
 
 OUTPUT
 
