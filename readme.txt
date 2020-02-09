@@ -22,7 +22,8 @@ Optional argument:
 	-s Search,
 		Specify the file or subset of files that needs to be extracted from nif-context file
 Example 
-./separate_scripts.sh -p F:/Master_thesis/nif_context_de.ttl (Extracts all the Wikipedia articles in German language and stores in Files/Inputde folder)
+./separate_scripts.sh -p F:/Master_thesis/nif_context_de.ttl (Extracts all the Wikipedia articles in German language and stores in 
+Files/Inputde folder)
 ./separate_scripts.sh -p F:/Master_thesis/nif_context_en.ttl -s St (Extracts all articles that starts with "St" in English Language and 
 stores in Files/Inputen folder)
 ./separate_scripts.sh -p F:/Master_thesis/nif_context_es.ttl -s 5 (Extracts the article 5 in Spanish Language and stores in 
