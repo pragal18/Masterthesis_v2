@@ -1,22 +1,34 @@
 Enrichment of DBpedia NIF Dataset
 Enrichment of DBpedia NIF Dataset is a compilation of Bash and Python3 scripts that enables to perform various Natural Language Processing tasks on wikipedia on normal off-the-shelf hardware (e.g., a quad-core CPU, 8 GB of main memory, and 250 GB hard disk storage). 
 
-Download the nif_context_en.ttl
+Step 1:
+Download the "nif_context_<language>.ttl" file from https://wiki.dbpedia.org/downloads-2016-10 . Languages supported by this project are English, French, German, Spanish and Japanese.
 
-INPUT :
-1) Language - "en" for english, "fr" for French, "de" for German, "ja" for Japanese, "es" for spanish
+Step 2:
+Run the 'separate_scripts.sh' by giving an argument -p followed by the path to the location of "nif_context_<language>.ttl" in your system. This is a preprocessing step to perform various Natural Language Processing tasks on individual articles. 
+Example - ./separate_scripts.sh -p F:/Master_thesis/nif_context_en.ttl
+
+Also you could run the script along with search argument -s , i.e if you want to extract only a subset of "nif_context_<language>.ttl".
+//Extract all articles that starts with "St"
+./separate_scripts.sh -p F:/Master_thesis/nif_context_en.ttl -s St
+
+//Extract only the article "Augustus"
+./separate_scripts.sh -p F:/Master_thesis/nif_context_en.ttl -s Augustus
+
+Step 3:
+Perform various NLP tasks by running 'runme.sh' with the following arguments :
+1) Language (-l) - "en" for english, "fr" for French, "de" for German, "ja" for Japanese, "es" for spanish
 		 Default language is English if the language parameter is not specified. 
-		 For new language to be used - Download the NIF Context file for that language from 
-		 https://wiki.dbpedia.org/downloads-  2016-10 , in the TTL format
-		 Store the output on Files/Input<Language-short-form> . Even if you have your own text file, store it under this                          location and all the tasks could be performed.
-2) NLP task - "SEN" for sentence splitting
-					"TOK" for Tokenisation
-					"POS" for Part of speech tagging
-					"ADL" for enrichment of additional links
-3) Instance size - specify the number of wikipedia articles the operation should be performed on.
-4) Article name specify a particular article name for which the operation has to be performed.
-5) Tool name - "NLTK" for Using Natural Language Tool Kit package from Python3 , "TTB" for using TextBlob , "SIO" for using Spacy IO and                "PAT" for Pattern.
-		Default is NLTK is none of it is specified.	
+		 Even if you have your own text file, store it under this location and all the tasks could be performed.
+2) NLP task (-t) - "SEN" for sentence splitting
+	      	   "TOK" for Tokenisation
+	           "POS" for Part of speech tagging
+	           "ADL" for enrichment of additional links
+3) Instance size (-n) - specify the number of wikipedia articles the operation should be performed on.
+4) Search(-s) - Article name specify a particular article name for which the operation has to be performed.
+5) Tool name(-e)- "NLTK" for Using Natural Language Tool Kit package from Python3 , "TTB" for using TextBlob , "SIO" for using Spacy IO 		   and "PAT" for Pattern.
+		   Default is NLTK is none of it is specified.	
+
 
 PROCESSING 
 	We downloads the required DBpedia NIF files from https://wiki.dbpedia.org/downloads-2016-10 , separate into individual articles , perform NLP tasks on various languages with a variety of tools. 
