@@ -5,7 +5,7 @@ storage).
 
 Step 1:
 Download the "nif_context_<language>.ttl" file from https://wiki.dbpedia.org/downloads-2016-10 . Languages supported by this project are 
-English, French, German, Spanish and Japanese.
+English, French, German, Spanish and Japanese. So make sure you download the nif-context for any one of these languages
 
 Step 2:
 Run the 'separate_scripts.sh' by giving an argument -p followed by the path to the location of "nif_context_<language>.ttl" in your 
