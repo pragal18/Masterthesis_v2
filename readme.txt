@@ -31,72 +31,57 @@ Perform various NLP tasks by running 'runme.sh' with the following arguments :
 3) Instance size (-n) - specify the number of wikipedia articles the operation should be performed on.
 4) Search(-s) - Article name specify a particular article name for which the operation has to be performed.
 5) Tool name(-e)- "NLTK" for Using Natural Language Tool Kit package from Python3 , "TTB" for using TextBlob , "SIO" for using Spacy IO 
-                   and "PAT" for Pattern.
-		   Default is NLTK is none of it is specified.	
-
-
-PROCESSING 
-	We downloads the required DBpedia NIF files from https://wiki.dbpedia.org/downloads-2016-10 , separate into individual articles 
-	, perform NLP tasks on various languages with a variety of tools. 
-
-OUTPUT
-
+                   and "PAT" for Pattern. Default is NLTK is none of it is specified.	
+		   
 REQUIREMENTS
 python>=3.4
 NLTK >= 3.0
-GENSIM>=3.4
 SPACY>=2.0
 rdflib>=4.0
 numpy>=1.16.3 
-Usage
-  usage: ./run.sh [-h] [-p PROJECT] [-i ITERATIONS] [-d DAMPING] [-s START]
-                     [-b] [-l]
-                     wikilang
+TextBlob>=0.15.2
+Pattern >=3.6
 
-  Compute PageRank on Wikipedia.
+USAGE
+usage: ./runme.sh [-l LANGUAGE] [-n NUMBER OF FILES TO BE PROCESSED] [-t NLP TASK] [-e NAME OF TOOL] [-s SEARCH]
 
-  positional arguments:
-    wikilang              Wikipedia language edition, e.g. "en". "ALL" for
-                          computing PageRank over all languages available in a
-                          project.
+Perform various NLP Tasks on Wikipedia.
+Positional arguments:
+     -t  Task,            
+     			  We are able to perform 4 NLP tasks here over selected set of wikipedia articles or all the articles in 5       
+                          different languages namely 
+			  Sentence splitting (SEN), 
+			  Tokenization(TOK), 
+			  Part of speeching(POS) and 
+			  Link Enrichment(ADL).
+     -n  Number,          
+     			  Specify a number of articles to perform the tasks on. 
+  
+ Optional arguments:
+     -s SEARCH,            
+                          Enter the name of an article that you would like to perform the NLP task on. You have the option to specify -t 			   ALL to have all NLP tasks performed for that article. There is no need to mention -n in this case.
+     -e TOOL,              
+    			  Natural Language ToolKit (NLTK)
+			  SPACYIO (SIO)
+			  TextBlob (TTB)
+			  Pattern(PAT)
+                          (default: NLTK)
+    -l LANGUAGE, 
+                          English(en), German(de), Spanish(es), French(fr) and Japanese(ja) (default: en)
 
-  optional arguments:
-    -h, --help            show this help message and exit
-    -p PROJECT, --project PROJECT
-                          Wiki project, currently supported [wiki, books,
-                          source, versity, news]. (default: wiki)
-    -i ITERATIONS, --iterations ITERATIONS
-                          PageRank number of iterations. (default: 40)
-    -d DAMPING, --damping DAMPING
-                          PageRank damping factor. (default: 0.85)
-    -s START, --start START
-                          PageRank starting value. (default: 0.1)
-    -b, --bigmem          PageRank big memory flag. (default: False)
-    -l, --links           Only extract links (skip PageRank). (default: False)
 Examples
-Compute PageRank on the current dump of English Wikipedia:
+./runme.sh -t SEN -n 100 (Performs Sentence splitting on 100 english articles via NLTK)  
+./runme.sh -t ALL -s Apollos (Performs all 4 NLP tasks for the article Apollos)
+./runme.sh -t TOK -n 100 -l de -e SIO (Perform Tokenisation on 100 German articles via Spacy IO)
 
-$ ./danker.sh en
-$ ./danker.sh en --bigmem
-Compute PageRank on the union of all language editions:
 
-$ ./danker.sh ALL
-$ ./danker.sh ALL --bigmem    # caution, you will need some main memory for that
-Compute PageRank for each Wikipedia language edition separately:
-
-$ for i in $(./script/get_languages.sh); do ./danker.sh "$i"; done
-$ for i in $(./script/get_languages.sh); do ./danker.sh "$i" -b; done
-Compute PageRank on the English version of Wikibooks:
-
-$ ./danker.sh en --project books
-$ ./danker.sh en --bigmem --project books
-Compute PageRank on any other graph
-
-Download
-Output of ./danker.sh ALL on bi-weekly Wikipedia dumps.
-
-2019-10-29
-https://danker.s3.amazonaws.com/2019-10-29.allwiki.links.stats.txt
-https://danker.s3.amazonaws.com/2019-10-29.allwiki.links.rank.bz2
-2019-10-09
-https://danker.s3.amazonaws.com/2019-10-09.allwiki.links.stats.txt
+PROCESSING 
+	
+OUTPUT
+	Results of sentence-splitting task gets stored in Files/Sentence folder in RDF triples.
+	Results of Tokenization task gets stored in Files/Tokens in RDF triples.
+	Results of Part of speech tasks gets stored in the Files/POS in RDF triples on the same name as the article.
+	Results of Link Enrichment task gets stored in Files/Links in RDF format.
+	Results of Search tasks gets stored on Files/Search with name of the article followed by task in RDF format.
+	
+	
