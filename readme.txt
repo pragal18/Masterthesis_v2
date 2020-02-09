@@ -20,9 +20,11 @@ Optional argument:
 Example 
 ./separate_scripts.sh -p F:/Master_thesis/nif_context_de.ttl (Extracts all the Wikipedia articles in German language and stores in Files/Inputde folder)
 
-./separate_scripts.sh -p F:/Master_thesis/nif_context_en.ttl -s St (Extracts all articles that starts with "St" in English Language and stores in Files/Inputen folder)
+./separate_scripts.sh -p F:/Master_thesis/nif_context_en.ttl -s St (Extracts all articles that starts with "St" in English Language and 
+stores in Files/Inputen folder)
 
-./separate_scripts.sh -p F:/Master_thesis/nif_context_es.ttl -s 5 (Extracts the article 5 in Spanish Language and stores in Files/Inputes folder)
+./separate_scripts.sh -p F:/Master_thesis/nif_context_es.ttl -s 5 (Extracts the article 5 in Spanish Language and stores in 
+Files/Inputes folder)
 
 Step 3:
 Perform various NLP tasks by running 'runme.sh' with the following arguments :
@@ -80,7 +82,10 @@ Examples
 ./runme.sh -t TOK -n 100 -l de -e SIO (Perform Tokenisation on 100 German articles via Spacy IO)
 
 PROCESSING 
-	Download nif_context_en.ttl from the https://wiki.dbpedia.org/ and run the separate_scripts.sh pointing the path to downloaded 	         location of nif_context. This separates the nif_context_en to RDF triples of individual articles and stores them in 		         Files/Inputen. If you download nif_context_fr.ttl then output gets stored in Files/Inputfr. Similarly Spanish nif_context_es.ttl         gets stored in Files/Inputes and Files/Inputde for German. 
+	Download nif_context_en.ttl from the https://wiki.dbpedia.org/ and run the separate_scripts.sh pointing the path to downloaded 	 
+	location of nif_context. This separates the nif_context_en to RDF triples of individual articles and stores them in 		 
+	Files/Inputen. If you download nif_context_fr.ttl then output gets stored in Files/Inputfr. Similarly Spanish nif_context_es.ttl 
+	gets stored in Files/Inputes and Files/Inputde for German. 
 	
 OUTPUT
 	Results of sentence-splitting task gets stored in Files/Sentence folder in RDF triples.
