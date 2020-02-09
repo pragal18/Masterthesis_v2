@@ -93,7 +93,8 @@ PROCESSING
 	gets stored in Files/Inputes and Files/Inputde for German. 
 	
 	Download nif_text_links_en.ttl from the https://wiki.dbpedia.org/ and run the separate_scripts.sh pointing the path to  	
-	downloaded location of nif_text_links. It creates a CSV file with all links,surface forms and their Part of Speech This is aa           mandatory step for performing link enrichment task. 
+	downloaded location of nif_text_links. It creates a CSV file with all links,surface forms and their Part of Speech This is a     
+	mandatory step for performing link enrichment task. 
 	
 OUTPUT
 	Results of sentence-splitting task gets stored in Files/Sentence folder in RDF triples.
