@@ -1,11 +1,15 @@
 Enrichment of DBpedia NIF Dataset
-Enrichment of DBpedia NIF Dataset is a compilation of Bash and Python3 scripts that enables to perform various Natural Language Processing tasks on wikipedia on normal off-the-shelf hardware (e.g., a quad-core CPU, 8 GB of main memory, and 250 GB hard disk storage). 
+Enrichment of DBpedia NIF Dataset is a compilation of Bash and Python3 scripts that enables to perform various Natural Language
+Processing tasks on wikipedia on normal off-the-shelf hardware (e.g., a quad-core CPU, 8 GB of main memory, and 250 GB hard disk 
+storage). 
 
 Step 1:
-Download the "nif_context_<language>.ttl" file from https://wiki.dbpedia.org/downloads-2016-10 . Languages supported by this project are English, French, German, Spanish and Japanese.
+Download the "nif_context_<language>.ttl" file from https://wiki.dbpedia.org/downloads-2016-10 . Languages supported by this project are 
+English, French, German, Spanish and Japanese.
 
 Step 2:
-Run the 'separate_scripts.sh' by giving an argument -p followed by the path to the location of "nif_context_<language>.ttl" in your system. This is a preprocessing step to perform various Natural Language Processing tasks on individual articles. 
+Run the 'separate_scripts.sh' by giving an argument -p followed by the path to the location of "nif_context_<language>.ttl" in your 
+system. This is a preprocessing step to perform various Natural Language Processing tasks on individual articles. 
 Example - ./separate_scripts.sh -p F:/Master_thesis/nif_context_en.ttl
 
 Also you could run the script along with search argument -s , i.e if you want to extract only a subset of "nif_context_<language>.ttl".
@@ -26,7 +30,8 @@ Perform various NLP tasks by running 'runme.sh' with the following arguments :
 	           "ADL" for enrichment of additional links
 3) Instance size (-n) - specify the number of wikipedia articles the operation should be performed on.
 4) Search(-s) - Article name specify a particular article name for which the operation has to be performed.
-5) Tool name(-e)- "NLTK" for Using Natural Language Tool Kit package from Python3 , "TTB" for using TextBlob , "SIO" for using Spacy IO 		   and "PAT" for Pattern.
+5) Tool name(-e)- "NLTK" for Using Natural Language Tool Kit package from Python3 , "TTB" for using TextBlob , "SIO" for using Spacy IO 
+                   and "PAT" for Pattern.
 		   Default is NLTK is none of it is specified.	
 
 
