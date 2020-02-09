@@ -2,23 +2,28 @@
 #$ mv q-new.sh q.sh
 #sed -i 's/\r//' run.sh
 #!/bin/sh
-while getopts "p:" opt
+while getopts "p:s:" opt
 do
    case "$opt" in
       p) parameterA="$OPTARG" ;;
+	  s) parameterB="$OPTARG" ;;
    esac
 done
 # Print helpFunction in case parameters are empty
 if [ -z "$parameterA" ] 
 then
-   echo "Please enter path to nif-context or nif-text-link file downloaded from DBPedia";
+   echo "Please enter path to nif-context file downloaded from DBPedia";
 fi
 
-if echo "$parameterA" | grep 'context'; then
-  python final_scripts/separation_context.py $parameterA 
+if [ -z "$parameterB" ] 
+then
+	if echo "$parameterA" | grep 'context'; 
+	then
+		python final_scripts/separation_context.py $parameterA 
+	else
+		echo "Please enter correct path to nif-context file downloaded from DBPedia";
+	fi
+	
+else
+	python final_scripts/context_search.py $parameterA $parameterB		
 fi
-
-if echo "$parameterA" | grep 'links'; then
-  python final_scripts/separation_textlink.py $parameterA  
-fi
-
