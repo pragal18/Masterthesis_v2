@@ -1,0 +1,1819 @@
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_0_5> a nif:Word ;
+    nif:anchorOf "There" ;
+    nif:beginIndex "0" ;
+    nif:endIndex "5" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#EX> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1005_1007> a nif:Word ;
+    nif:anchorOf "He" ;
+    nif:beginIndex "1005" ;
+    nif:endIndex "1007" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PRP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1008_1015> a nif:Word ;
+    nif:anchorOf "married" ;
+    nif:beginIndex "1008" ;
+    nif:endIndex "1015" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1016_1023> a nif:Word ;
+    nif:anchorOf "Laodice" ;
+    nif:beginIndex "1016" ;
+    nif:endIndex "1023" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_101_102> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "101" ;
+    nif:endIndex "102" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1025_1033> a nif:Word ;
+    nif:anchorOf "daughter" ;
+    nif:beginIndex "1025" ;
+    nif:endIndex "1033" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1034_1036> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "1034" ;
+    nif:endIndex "1036" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1037_1044> a nif:Word ;
+    nif:anchorOf "Cinyras" ;
+    nif:beginIndex "1037" ;
+    nif:endIndex "1044" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_103_109> a nif:Word ;
+    nif:anchorOf "Lapith" ;
+    nif:beginIndex "103" ;
+    nif:endIndex "109" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1046_1049> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "1046" ;
+    nif:endIndex "1049" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CC> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1050_1056> a nif:Word ;
+    nif:anchorOf "became" ;
+    nif:beginIndex "1050" ;
+    nif:endIndex "1056" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1057_1059> a nif:Word ;
+    nif:anchorOf "by" ;
+    nif:beginIndex "1057" ;
+    nif:endIndex "1059" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1060_1063> a nif:Word ;
+    nif:anchorOf "her" ;
+    nif:beginIndex "1060" ;
+    nif:endIndex "1063" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PRP$> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1064_1070> a nif:Word ;
+    nif:anchorOf "father" ;
+    nif:beginIndex "1064" ;
+    nif:endIndex "1070" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1071_1073> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "1071" ;
+    nif:endIndex "1073" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1074_1084> a nif:Word ;
+    nif:anchorOf "Stymphalus" ;
+    nif:beginIndex "1074" ;
+    nif:endIndex "1084" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1086_1092> a nif:Word ;
+    nif:anchorOf "Pereus" ;
+    nif:beginIndex "1086" ;
+    nif:endIndex "1092" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1094_1101> a nif:Word ;
+    nif:anchorOf "Aepytus" ;
+    nif:beginIndex "1094" ;
+    nif:endIndex "1101" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1103_1109> a nif:Word ;
+    nif:anchorOf "Ischys" ;
+    nif:beginIndex "1103" ;
+    nif:endIndex "1109" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_110_119> a nif:Word ;
+    nif:anchorOf "chieftain" ;
+    nif:beginIndex "110" ;
+    nif:endIndex "119" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1111_1114> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "1111" ;
+    nif:endIndex "1114" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CC> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1115_1121> a nif:Word ;
+    nif:anchorOf "Cyllen" ;
+    nif:beginIndex "1115" ;
+    nif:endIndex "1121" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1126_1132> a nif:Word ;
+    nif:anchorOf "Elatus" ;
+    nif:beginIndex "1126" ;
+    nif:endIndex "1132" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1134_1136> a nif:Word ;
+    nif:anchorOf "an" ;
+    nif:beginIndex "1134" ;
+    nif:endIndex "1136" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1137_1141> a nif:Word ;
+    nif:anchorOf "ally" ;
+    nif:beginIndex "1137" ;
+    nif:endIndex "1141" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1142_1144> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "1142" ;
+    nif:endIndex "1144" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1145_1148> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "1145" ;
+    nif:endIndex "1148" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1149_1156> a nif:Word ;
+    nif:anchorOf "Trojans" ;
+    nif:beginIndex "1149" ;
+    nif:endIndex "1156" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNPS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1157_1161> a nif:Word ;
+    nif:anchorOf "from" ;
+    nif:beginIndex "1157" ;
+    nif:endIndex "1161" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1162_1169> a nif:Word ;
+    nif:anchorOf "Pedasus" ;
+    nif:beginIndex "1162" ;
+    nif:endIndex "1169" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1171_1177> a nif:Word ;
+    nif:anchorOf "killed" ;
+    nif:beginIndex "1171" ;
+    nif:endIndex "1177" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1178_1180> a nif:Word ;
+    nif:anchorOf "by" ;
+    nif:beginIndex "1178" ;
+    nif:endIndex "1180" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1181_1190> a nif:Word ;
+    nif:anchorOf "Agamemnon" ;
+    nif:beginIndex "1181" ;
+    nif:endIndex "1190" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1195_1201> a nif:Word ;
+    nif:anchorOf "Elatus" ;
+    nif:beginIndex "1195" ;
+    nif:endIndex "1201" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_11_18> a nif:Word ;
+    nif:anchorOf "several" ;
+    nif:beginIndex "11" ;
+    nif:endIndex "18" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1202_1204> a nif:Word ;
+    nif:anchorOf "or" ;
+    nif:beginIndex "1202" ;
+    nif:endIndex "1204" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CC> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1205_1211> a nif:Word ;
+    nif:anchorOf "Elaton" ;
+    nif:beginIndex "1205" ;
+    nif:endIndex "1211" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_120_122> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "120" ;
+    nif:endIndex "122" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1213_1214> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "1213" ;
+    nif:endIndex "1214" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1215_1225> a nif:Word ;
+    nif:anchorOf "charioteer" ;
+    nif:beginIndex "1215" ;
+    nif:endIndex "1225" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1226_1228> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "1226" ;
+    nif:endIndex "1228" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1229_1239> a nif:Word ;
+    nif:anchorOf "Amphiaraus" ;
+    nif:beginIndex "1229" ;
+    nif:endIndex "1239" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_123_130> a nif:Word ;
+    nif:anchorOf "Larissa" ;
+    nif:beginIndex "123" ;
+    nif:endIndex "130" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1241_1250> a nif:Word ;
+    nif:anchorOf "otherwise" ;
+    nif:beginIndex "1241" ;
+    nif:endIndex "1250" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#RB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1251_1256> a nif:Word ;
+    nif:anchorOf "known" ;
+    nif:beginIndex "1251" ;
+    nif:endIndex "1256" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1257_1259> a nif:Word ;
+    nif:anchorOf "as" ;
+    nif:beginIndex "1257" ;
+    nif:endIndex "1259" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1260_1265> a nif:Word ;
+    nif:anchorOf "Baton" ;
+    nif:beginIndex "1260" ;
+    nif:endIndex "1265" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1270_1276> a nif:Word ;
+    nif:anchorOf "Elatus" ;
+    nif:beginIndex "1270" ;
+    nif:endIndex "1276" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1278_1284> a nif:Word ;
+    nif:anchorOf "father" ;
+    nif:beginIndex "1278" ;
+    nif:endIndex "1284" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1285_1287> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "1285" ;
+    nif:endIndex "1287" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1288_1296> a nif:Word ;
+    nif:anchorOf "Euanippe" ;
+    nif:beginIndex "1288" ;
+    nif:endIndex "1296" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1298_1301> a nif:Word ;
+    nif:anchorOf "who" ;
+    nif:beginIndex "1298" ;
+    nif:endIndex "1301" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#WP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1302_1305> a nif:Word ;
+    nif:anchorOf "was" ;
+    nif:beginIndex "1302" ;
+    nif:endIndex "1305" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1306_1309> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "1306" ;
+    nif:endIndex "1309" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1310_1316> a nif:Word ;
+    nif:anchorOf "mother" ;
+    nif:beginIndex "1310" ;
+    nif:endIndex "1316" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1317_1319> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "1317" ;
+    nif:endIndex "1319" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1320_1329> a nif:Word ;
+    nif:anchorOf "Polydorus" ;
+    nif:beginIndex "1320" ;
+    nif:endIndex "1329" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_132_140> a nif:Word ;
+    nif:anchorOf "Thessaly" ;
+    nif:beginIndex "132" ;
+    nif:endIndex "140" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1330_1332> a nif:Word ;
+    nif:anchorOf "by" ;
+    nif:beginIndex "1330" ;
+    nif:endIndex "1332" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1333_1343> a nif:Word ;
+    nif:anchorOf "Hippomedon" ;
+    nif:beginIndex "1333" ;
+    nif:endIndex "1343" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1348_1354> a nif:Word ;
+    nif:anchorOf "Elatus" ;
+    nif:beginIndex "1348" ;
+    nif:endIndex "1354" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1356_1357> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "1356" ;
+    nif:endIndex "1357" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1358_1361> a nif:Word ;
+    nif:anchorOf "son" ;
+    nif:beginIndex "1358" ;
+    nif:endIndex "1361" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1362_1364> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "1362" ;
+    nif:endIndex "1364" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1365_1372> a nif:Word ;
+    nif:anchorOf "Icarius" ;
+    nif:beginIndex "1365" ;
+    nif:endIndex "1372" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1373_1376> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "1373" ;
+    nif:endIndex "1376" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CC> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1377_1383> a nif:Word ;
+    nif:anchorOf "father" ;
+    nif:beginIndex "1377" ;
+    nif:endIndex "1383" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1384_1386> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "1384" ;
+    nif:endIndex "1386" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1387_1395> a nif:Word ;
+    nif:anchorOf "Taenarus" ;
+    nif:beginIndex "1387" ;
+    nif:endIndex "1395" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1396_1398> a nif:Word ;
+    nif:anchorOf "by" ;
+    nif:beginIndex "1396" ;
+    nif:endIndex "1398" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1399_1406> a nif:Word ;
+    nif:anchorOf "Erymede" ;
+    nif:beginIndex "1399" ;
+    nif:endIndex "1406" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1411_1417> a nif:Word ;
+    nif:anchorOf "Elatus" ;
+    nif:beginIndex "1411" ;
+    nif:endIndex "1417" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1418_1421> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "1418" ;
+    nif:endIndex "1421" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1422_1426> a nif:Word ;
+    nif:anchorOf "seer" ;
+    nif:beginIndex "1422" ;
+    nif:endIndex "1426" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1428_1434> a nif:Word ;
+    nif:anchorOf "father" ;
+    nif:beginIndex "1428" ;
+    nif:endIndex "1434" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_142_144> a nif:Word ;
+    nif:anchorOf "He" ;
+    nif:beginIndex "142" ;
+    nif:endIndex "144" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PRP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1435_1437> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "1435" ;
+    nif:endIndex "1437" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1438_1445> a nif:Word ;
+    nif:anchorOf "Ampycus" ;
+    nif:beginIndex "1438" ;
+    nif:endIndex "1445" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1448_1453> a nif:Word ;
+    nif:anchorOf "Notes" ;
+    nif:beginIndex "1448" ;
+    nif:endIndex "1453" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1456_1466> a nif:Word ;
+    nif:anchorOf "References" ;
+    nif:beginIndex "1456" ;
+    nif:endIndex "1466" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_145_148> a nif:Word ;
+    nif:anchorOf "was" ;
+    nif:beginIndex "145" ;
+    nif:endIndex "148" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1471_1476> a nif:Word ;
+    nif:anchorOf "Smith" ;
+    nif:beginIndex "1471" ;
+    nif:endIndex "1476" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1478_1485> a nif:Word ;
+    nif:anchorOf "William" ;
+    nif:beginIndex "1478" ;
+    nif:endIndex "1485" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1487_1497> a nif:Word ;
+    nif:anchorOf "Dictionary" ;
+    nif:beginIndex "1487" ;
+    nif:endIndex "1497" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1498_1500> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "1498" ;
+    nif:endIndex "1500" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_149_152> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "149" ;
+    nif:endIndex "152" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1501_1506> a nif:Word ;
+    nif:anchorOf "Greek" ;
+    nif:beginIndex "1501" ;
+    nif:endIndex "1506" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1507_1510> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "1507" ;
+    nif:endIndex "1510" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CC> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1511_1516> a nif:Word ;
+    nif:anchorOf "Roman" ;
+    nif:beginIndex "1511" ;
+    nif:endIndex "1516" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1517_1526> a nif:Word ;
+    nif:anchorOf "Biography" ;
+    nif:beginIndex "1517" ;
+    nif:endIndex "1526" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1527_1530> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "1527" ;
+    nif:endIndex "1530" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CC> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1531_1540> a nif:Word ;
+    nif:anchorOf "Mythology" ;
+    nif:beginIndex "1531" ;
+    nif:endIndex "1540" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_153_159> a nif:Word ;
+    nif:anchorOf "father" ;
+    nif:beginIndex "153" ;
+    nif:endIndex "159" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1542_1548> a nif:Word ;
+    nif:anchorOf "London" ;
+    nif:beginIndex "1542" ;
+    nif:endIndex "1548" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1550_1554> a nif:Word ;
+    nif:anchorOf "1873" ;
+    nif:beginIndex "1550" ;
+    nif:endIndex "1554" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1558_1564> a nif:Word ;
+    nif:anchorOf "Elatus" ;
+    nif:beginIndex "1558" ;
+    nif:endIndex "1564" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1566_1568> a nif:Word ;
+    nif:anchorOf "1." ;
+    nif:beginIndex "1566" ;
+    nif:endIndex "1568" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1571_1577> a nif:Word ;
+    nif:anchorOf "Elatus" ;
+    nif:beginIndex "1571" ;
+    nif:endIndex "1577" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1579_1581> a nif:Word ;
+    nif:anchorOf "2." ;
+    nif:beginIndex "1579" ;
+    nif:endIndex "1581" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1582_1584> a nif:Word ;
+    nif:anchorOf "br" ;
+    nif:beginIndex "1582" ;
+    nif:endIndex "1584" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1585_1591> a nif:Word ;
+    nif:anchorOf "Elatos" ;
+    nif:beginIndex "1585" ;
+    nif:endIndex "1591" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1592_1594> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "1592" ;
+    nif:endIndex "1594" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_1595_1601> a nif:Word ;
+    nif:anchorOf "Elatos" ;
+    nif:beginIndex "1595" ;
+    nif:endIndex "1601" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_161_163> a nif:Word ;
+    nif:anchorOf "by" ;
+    nif:beginIndex "161" ;
+    nif:endIndex "163" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_164_171> a nif:Word ;
+    nif:anchorOf "Hippeia" ;
+    nif:beginIndex "164" ;
+    nif:endIndex "171" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_173_175> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "173" ;
+    nif:endIndex "175" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_176_183> a nif:Word ;
+    nif:anchorOf "Caeneus" ;
+    nif:beginIndex "176" ;
+    nif:endIndex "183" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_185_195> a nif:Word ;
+    nif:anchorOf "Polyphemus" ;
+    nif:beginIndex "185" ;
+    nif:endIndex "195" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_197_200> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "197" ;
+    nif:endIndex "200" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CC> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_19_26> a nif:Word ;
+    nif:anchorOf "figures" ;
+    nif:beginIndex "19" ;
+    nif:endIndex "26" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_201_207> a nif:Word ;
+    nif:anchorOf "Ischys" ;
+    nif:beginIndex "201" ;
+    nif:endIndex "207" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_208_211> a nif:Word ;
+    nif:anchorOf "who" ;
+    nif:beginIndex "208" ;
+    nif:endIndex "211" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#WP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_212_215> a nif:Word ;
+    nif:anchorOf "was" ;
+    nif:beginIndex "212" ;
+    nif:endIndex "215" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_216_223> a nif:Word ;
+    nif:anchorOf "beloved" ;
+    nif:beginIndex "216" ;
+    nif:endIndex "223" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_224_226> a nif:Word ;
+    nif:anchorOf "by" ;
+    nif:beginIndex "224" ;
+    nif:endIndex "226" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_227_234> a nif:Word ;
+    nif:anchorOf "Coronis" ;
+    nif:beginIndex "227" ;
+    nif:endIndex "234" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_236_239> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "236" ;
+    nif:endIndex "239" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CC> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_240_241> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "240" ;
+    nif:endIndex "241" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_242_250> a nif:Word ;
+    nif:anchorOf "daughter" ;
+    nif:beginIndex "242" ;
+    nif:endIndex "250" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_251_256> a nif:Word ;
+    nif:anchorOf "Dotia" ;
+    nif:beginIndex "251" ;
+    nif:endIndex "256" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_258_266> a nif:Word ;
+    nif:anchorOf "possibly" ;
+    nif:beginIndex "258" ;
+    nif:endIndex "266" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#RB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_267_270> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "267" ;
+    nif:endIndex "270" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_271_277> a nif:Word ;
+    nif:anchorOf "eponym" ;
+    nif:beginIndex "271" ;
+    nif:endIndex "277" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_278_280> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "278" ;
+    nif:endIndex "280" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_27_32> a nif:Word ;
+    nif:anchorOf "named" ;
+    nif:beginIndex "27" ;
+    nif:endIndex "32" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_281_287> a nif:Word ;
+    nif:anchorOf "Dotion" ;
+    nif:beginIndex "281" ;
+    nif:endIndex "287" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_289_295> a nif:Word ;
+    nif:anchorOf "Dotium" ;
+    nif:beginIndex "289" ;
+    nif:endIndex "295" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_297_299> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "297" ;
+    nif:endIndex "299" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_300_308> a nif:Word ;
+    nif:anchorOf "Thessaly" ;
+    nif:beginIndex "300" ;
+    nif:endIndex "308" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_310_313> a nif:Word ;
+    nif:anchorOf "see" ;
+    nif:beginIndex "310" ;
+    nif:endIndex "313" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_314_318> a nif:Word ;
+    nif:anchorOf "also" ;
+    nif:beginIndex "314" ;
+    nif:endIndex "318" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#RB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_319_324> a nif:Word ;
+    nif:anchorOf "Dotis" ;
+    nif:beginIndex "319" ;
+    nif:endIndex "324" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_330_336> a nif:Word ;
+    nif:anchorOf "Elatus" ;
+    nif:beginIndex "330" ;
+    nif:endIndex "336" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_338_339> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "338" ;
+    nif:endIndex "339" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_33_39> a nif:Word ;
+    nif:anchorOf "Elatus" ;
+    nif:beginIndex "33" ;
+    nif:endIndex "39" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_340_347> a nif:Word ;
+    nif:anchorOf "Centaur" ;
+    nif:beginIndex "340" ;
+    nif:endIndex "347" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_349_355> a nif:Word ;
+    nif:anchorOf "killed" ;
+    nif:beginIndex "349" ;
+    nif:endIndex "355" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_356_362> a nif:Word ;
+    nif:anchorOf "during" ;
+    nif:beginIndex "356" ;
+    nif:endIndex "362" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_363_364> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "363" ;
+    nif:endIndex "364" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_365_371> a nif:Word ;
+    nif:anchorOf "battle" ;
+    nif:beginIndex "365" ;
+    nif:endIndex "371" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_372_376> a nif:Word ;
+    nif:anchorOf "with" ;
+    nif:beginIndex "372" ;
+    nif:endIndex "376" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_377_385> a nif:Word ;
+    nif:anchorOf "Heracles" ;
+    nif:beginIndex "377" ;
+    nif:endIndex "385" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_386_388> a nif:Word ;
+    nif:anchorOf "by" ;
+    nif:beginIndex "386" ;
+    nif:endIndex "388" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_389_390> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "389" ;
+    nif:endIndex "390" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_391_399> a nif:Word ;
+    nif:anchorOf "poisoned" ;
+    nif:beginIndex "391" ;
+    nif:endIndex "399" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_400_405> a nif:Word ;
+    nif:anchorOf "arrow" ;
+    nif:beginIndex "400" ;
+    nif:endIndex "405" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_406_410> a nif:Word ;
+    nif:anchorOf "that" ;
+    nif:beginIndex "406" ;
+    nif:endIndex "410" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#WDT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_40_49> a nif:Word ;
+    nif:anchorOf "/ˈɛlətəs/" ;
+    nif:beginIndex "40" ;
+    nif:endIndex "49" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_411_417> a nif:Word ;
+    nif:anchorOf "passed" ;
+    nif:beginIndex "411" ;
+    nif:endIndex "417" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_418_425> a nif:Word ;
+    nif:anchorOf "through" ;
+    nif:beginIndex "418" ;
+    nif:endIndex "425" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_426_429> a nif:Word ;
+    nif:anchorOf "his" ;
+    nif:beginIndex "426" ;
+    nif:endIndex "429" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PRP$> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_430_433> a nif:Word ;
+    nif:anchorOf "arm" ;
+    nif:beginIndex "430" ;
+    nif:endIndex "433" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_434_437> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "434" ;
+    nif:endIndex "437" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CC> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_438_447> a nif:Word ;
+    nif:anchorOf "continued" ;
+    nif:beginIndex "438" ;
+    nif:endIndex "447" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_448_450> a nif:Word ;
+    nif:anchorOf "to" ;
+    nif:beginIndex "448" ;
+    nif:endIndex "450" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#TO> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_451_456> a nif:Word ;
+    nif:anchorOf "wound" ;
+    nif:beginIndex "451" ;
+    nif:endIndex "456" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_457_463> a nif:Word ;
+    nif:anchorOf "Chiron" ;
+    nif:beginIndex "457" ;
+    nif:endIndex "463" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_464_466> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "464" ;
+    nif:endIndex "466" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_467_470> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "467" ;
+    nif:endIndex "470" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_471_475> a nif:Word ;
+    nif:anchorOf "knee" ;
+    nif:beginIndex "471" ;
+    nif:endIndex "475" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_481_484> a nif:Word ;
+    nif:anchorOf "The" ;
+    nif:beginIndex "481" ;
+    nif:endIndex "484" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_485_493> a nif:Word ;
+    nif:anchorOf "asteroid" ;
+    nif:beginIndex "485" ;
+    nif:endIndex "493" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_494_499> a nif:Word ;
+    nif:anchorOf "31824" ;
+    nif:beginIndex "494" ;
+    nif:endIndex "499" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_500_506> a nif:Word ;
+    nif:anchorOf "Elatus" ;
+    nif:beginIndex "500" ;
+    nif:endIndex "506" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_507_509> a nif:Word ;
+    nif:anchorOf "is" ;
+    nif:beginIndex "507" ;
+    nif:endIndex "509" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBZ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_50_52> a nif:Word ;
+    nif:anchorOf "or" ;
+    nif:beginIndex "50" ;
+    nif:endIndex "52" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CC> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_510_515> a nif:Word ;
+    nif:anchorOf "named" ;
+    nif:beginIndex "510" ;
+    nif:endIndex "515" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_516_521> a nif:Word ;
+    nif:anchorOf "after" ;
+    nif:beginIndex "516" ;
+    nif:endIndex "521" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_522_526> a nif:Word ;
+    nif:anchorOf "this" ;
+    nif:beginIndex "522" ;
+    nif:endIndex "526" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_527_533> a nif:Word ;
+    nif:anchorOf "figure" ;
+    nif:beginIndex "527" ;
+    nif:endIndex "533" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_538_544> a nif:Word ;
+    nif:anchorOf "Elatus" ;
+    nif:beginIndex "538" ;
+    nif:endIndex "544" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_53_59> a nif:Word ;
+    nif:anchorOf "Élatos" ;
+    nif:beginIndex "53" ;
+    nif:endIndex "59" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_546_549> a nif:Word ;
+    nif:anchorOf "one" ;
+    nif:beginIndex "546" ;
+    nif:endIndex "549" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_550_552> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "550" ;
+    nif:endIndex "552" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_553_556> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "553" ;
+    nif:endIndex "556" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_557_564> a nif:Word ;
+    nif:anchorOf "suitors" ;
+    nif:beginIndex "557" ;
+    nif:endIndex "564" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_565_567> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "565" ;
+    nif:endIndex "567" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_568_576> a nif:Word ;
+    nif:anchorOf "Penelope" ;
+    nif:beginIndex "568" ;
+    nif:endIndex "576" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_578_584> a nif:Word ;
+    nif:anchorOf "killed" ;
+    nif:beginIndex "578" ;
+    nif:endIndex "584" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_585_587> a nif:Word ;
+    nif:anchorOf "by" ;
+    nif:beginIndex "585" ;
+    nif:endIndex "587" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_588_595> a nif:Word ;
+    nif:anchorOf "Eumaeus" ;
+    nif:beginIndex "588" ;
+    nif:endIndex "595" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_600_606> a nif:Word ;
+    nif:anchorOf "Elatus" ;
+    nif:beginIndex "600" ;
+    nif:endIndex "606" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_608_609> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "608" ;
+    nif:endIndex "609" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_610_613> a nif:Word ;
+    nif:anchorOf "son" ;
+    nif:beginIndex "610" ;
+    nif:endIndex "613" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_614_616> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "614" ;
+    nif:endIndex "616" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_617_622> a nif:Word ;
+    nif:anchorOf "Arcas" ;
+    nif:beginIndex "617" ;
+    nif:endIndex "622" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_61_67> a nif:Word ;
+    nif:anchorOf "Ἔλατος" ;
+    nif:beginIndex "61" ;
+    nif:endIndex "67" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_624_631> a nif:Word ;
+    nif:anchorOf "brother" ;
+    nif:beginIndex "624" ;
+    nif:endIndex "631" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_632_634> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "632" ;
+    nif:endIndex "634" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_635_643> a nif:Word ;
+    nif:anchorOf "Apheidas" ;
+    nif:beginIndex "635" ;
+    nif:endIndex "643" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_644_647> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "644" ;
+    nif:endIndex "647" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CC> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_648_652> a nif:Word ;
+    nif:anchorOf "Azan" ;
+    nif:beginIndex "648" ;
+    nif:endIndex "652" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_654_656> a nif:Word ;
+    nif:anchorOf "He" ;
+    nif:beginIndex "654" ;
+    nif:endIndex "656" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PRP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_657_660> a nif:Word ;
+    nif:anchorOf "was" ;
+    nif:beginIndex "657" ;
+    nif:endIndex "660" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_661_669> a nif:Word ;
+    nif:anchorOf "allotted" ;
+    nif:beginIndex "661" ;
+    nif:endIndex "669" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_670_672> a nif:Word ;
+    nif:anchorOf "by" ;
+    nif:beginIndex "670" ;
+    nif:endIndex "672" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_673_678> a nif:Word ;
+    nif:anchorOf "Arcas" ;
+    nif:beginIndex "673" ;
+    nif:endIndex "678" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_679_682> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "679" ;
+    nif:endIndex "682" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_683_689> a nif:Word ;
+    nif:anchorOf "region" ;
+    nif:beginIndex "683" ;
+    nif:endIndex "689" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_690_692> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "690" ;
+    nif:endIndex "692" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_693_706> a nif:Word ;
+    nif:anchorOf "then-nameless" ;
+    nif:beginIndex "693" ;
+    nif:endIndex "706" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_69_71> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "69" ;
+    nif:endIndex "71" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_6_10> a nif:Word ;
+    nif:anchorOf "were" ;
+    nif:beginIndex "6" ;
+    nif:endIndex "10" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_707_712> a nif:Word ;
+    nif:anchorOf "Mount" ;
+    nif:beginIndex "707" ;
+    nif:endIndex "712" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_713_720> a nif:Word ;
+    nif:anchorOf "Cyllene" ;
+    nif:beginIndex "713" ;
+    nif:endIndex "720" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_721_723> a nif:Word ;
+    nif:anchorOf "as" ;
+    nif:beginIndex "721" ;
+    nif:endIndex "723" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_724_727> a nif:Word ;
+    nif:anchorOf "his" ;
+    nif:beginIndex "724" ;
+    nif:endIndex "727" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PRP$> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_728_734> a nif:Word ;
+    nif:anchorOf "domain" ;
+    nif:beginIndex "728" ;
+    nif:endIndex "734" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_72_77> a nif:Word ;
+    nif:anchorOf "Greek" ;
+    nif:beginIndex "72" ;
+    nif:endIndex "77" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_736_739> a nif:Word ;
+    nif:anchorOf "but" ;
+    nif:beginIndex "736" ;
+    nif:endIndex "739" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CC> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_740_750> a nif:Word ;
+    nif:anchorOf "afterwards" ;
+    nif:beginIndex "740" ;
+    nif:endIndex "750" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_751_759> a nif:Word ;
+    nif:anchorOf "migrated" ;
+    nif:beginIndex "751" ;
+    nif:endIndex "759" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_760_762> a nif:Word ;
+    nif:anchorOf "to" ;
+    nif:beginIndex "760" ;
+    nif:endIndex "762" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#TO> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_763_766> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "763" ;
+    nif:endIndex "766" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_767_773> a nif:Word ;
+    nif:anchorOf "region" ;
+    nif:beginIndex "767" ;
+    nif:endIndex "773" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_774_779> a nif:Word ;
+    nif:anchorOf "which" ;
+    nif:beginIndex "774" ;
+    nif:endIndex "779" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#WDT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_780_785> a nif:Word ;
+    nif:anchorOf "later" ;
+    nif:beginIndex "780" ;
+    nif:endIndex "785" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#RB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_786_792> a nif:Word ;
+    nif:anchorOf "became" ;
+    nif:beginIndex "786" ;
+    nif:endIndex "792" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_78_87> a nif:Word ;
+    nif:anchorOf "mythology" ;
+    nif:beginIndex "78" ;
+    nif:endIndex "87" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_793_798> a nif:Word ;
+    nif:anchorOf "known" ;
+    nif:beginIndex "793" ;
+    nif:endIndex "798" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_799_801> a nif:Word ;
+    nif:anchorOf "as" ;
+    nif:beginIndex "799" ;
+    nif:endIndex "801" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_802_808> a nif:Word ;
+    nif:anchorOf "Phocis" ;
+    nif:beginIndex "802" ;
+    nif:endIndex "808" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_810_813> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "810" ;
+    nif:endIndex "813" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CC> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_814_822> a nif:Word ;
+    nif:anchorOf "assisted" ;
+    nif:beginIndex "814" ;
+    nif:endIndex "822" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_823_826> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "823" ;
+    nif:endIndex "826" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_827_832> a nif:Word ;
+    nif:anchorOf "local" ;
+    nif:beginIndex "827" ;
+    nif:endIndex "832" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_833_844> a nif:Word ;
+    nif:anchorOf "inhabitants" ;
+    nif:beginIndex "833" ;
+    nif:endIndex "844" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_845_847> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "845" ;
+    nif:endIndex "847" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_848_851> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "848" ;
+    nif:endIndex "851" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_852_855> a nif:Word ;
+    nif:anchorOf "war" ;
+    nif:beginIndex "852" ;
+    nif:endIndex "855" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_856_863> a nif:Word ;
+    nif:anchorOf "against" ;
+    nif:beginIndex "856" ;
+    nif:endIndex "863" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_864_867> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "864" ;
+    nif:endIndex "867" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_868_877> a nif:Word ;
+    nif:anchorOf "Phlegyans" ;
+    nif:beginIndex "868" ;
+    nif:endIndex "877" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNPS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_879_881> a nif:Word ;
+    nif:anchorOf "he" ;
+    nif:beginIndex "879" ;
+    nif:endIndex "881" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PRP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_882_885> a nif:Word ;
+    nif:anchorOf "was" ;
+    nif:beginIndex "882" ;
+    nif:endIndex "885" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_886_894> a nif:Word ;
+    nif:anchorOf "renowned" ;
+    nif:beginIndex "886" ;
+    nif:endIndex "894" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_895_897> a nif:Word ;
+    nif:anchorOf "as" ;
+    nif:beginIndex "895" ;
+    nif:endIndex "897" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_898_905> a nif:Word ;
+    nif:anchorOf "founder" ;
+    nif:beginIndex "898" ;
+    nif:endIndex "905" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_906_909> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "906" ;
+    nif:endIndex "909" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CC> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_910_916> a nif:Word ;
+    nif:anchorOf "eponym" ;
+    nif:beginIndex "910" ;
+    nif:endIndex "916" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_917_919> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "917" ;
+    nif:endIndex "919" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_920_923> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "920" ;
+    nif:endIndex "923" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_924_928> a nif:Word ;
+    nif:anchorOf "city" ;
+    nif:beginIndex "924" ;
+    nif:endIndex "928" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_929_935> a nif:Word ;
+    nif:anchorOf "Elatea" ;
+    nif:beginIndex "929" ;
+    nif:endIndex "935" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_937_939> a nif:Word ;
+    nif:anchorOf "An" ;
+    nif:beginIndex "937" ;
+    nif:endIndex "939" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_93_99> a nif:Word ;
+    nif:anchorOf "Elatus" ;
+    nif:beginIndex "93" ;
+    nif:endIndex "99" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_940_945> a nif:Word ;
+    nif:anchorOf "image" ;
+    nif:beginIndex "940" ;
+    nif:endIndex "945" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_946_948> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "946" ;
+    nif:endIndex "948" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_949_952> a nif:Word ;
+    nif:anchorOf "him" ;
+    nif:beginIndex "949" ;
+    nif:endIndex "952" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PRP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_953_956> a nif:Word ;
+    nif:anchorOf "was" ;
+    nif:beginIndex "953" ;
+    nif:endIndex "956" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_957_963> a nif:Word ;
+    nif:anchorOf "carved" ;
+    nif:beginIndex "957" ;
+    nif:endIndex "963" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_964_966> a nif:Word ;
+    nif:anchorOf "on" ;
+    nif:beginIndex "964" ;
+    nif:endIndex "966" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_967_968> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "967" ;
+    nif:endIndex "968" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_969_974> a nif:Word ;
+    nif:anchorOf "stele" ;
+    nif:beginIndex "969" ;
+    nif:endIndex "974" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_975_977> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "975" ;
+    nif:endIndex "977" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_978_981> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "978" ;
+    nif:endIndex "981" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_982_993> a nif:Word ;
+    nif:anchorOf "marketplace" ;
+    nif:beginIndex "982" ;
+    nif:endIndex "993" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_994_996> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "994" ;
+    nif:endIndex "996" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=word_997_1003> a nif:Word ;
+    nif:anchorOf "Elatea" ;
+    nif:beginIndex "997" ;
+    nif:endIndex "1003" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Elatus?dbpv=2016-10&nif=context> .
+
