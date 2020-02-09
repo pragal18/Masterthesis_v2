@@ -22,7 +22,7 @@ Example
 
 ./separate_scripts.sh -p F:/Master_thesis/nif_context_en.ttl -s St (Extracts all articles that starts with "St" in English Language and stores in Files/Inputen folder)
 
-./separate_scripts.sh -p F:/Master_thesis/nif_context_es.ttl -s Augustus (Extracts Auguste
+./separate_scripts.sh -p F:/Master_thesis/nif_context_es.ttl -s 5 (Extracts the article 5 in Spanish Language and stores in Files/Inputes folder)
 
 Step 3:
 Perform various NLP tasks by running 'runme.sh' with the following arguments :
@@ -62,7 +62,7 @@ Positional arguments:
      -n  Number,          
      			  Specify a number of articles to perform the tasks on. 
   
- Optional arguments:
+Optional arguments:
      -s SEARCH,            
                           Enter the name of an article that you would like to perform the NLP task on. You have the option to specify -t 			   ALL to have all NLP tasks performed for that article. There is no need to mention -n in this case.
      -e TOOL,              
@@ -81,8 +81,6 @@ Examples
 
 PROCESSING 
 	Download nif_context_en.ttl from the https://wiki.dbpedia.org/ and run the separate_scripts.sh pointing the path to downloaded 	         location of nif_context. This separates the nif_context_en to RDF triples of individual articles and stores them in 		         Files/Inputen. If you download nif_context_fr.ttl then output gets stored in Files/Inputfr. Similarly Spanish nif_context_es.ttl         gets stored in Files/Inputes and Files/Inputde for German. 
-	
-	
 	
 OUTPUT
 	Results of sentence-splitting task gets stored in Files/Sentence folder in RDF triples.
