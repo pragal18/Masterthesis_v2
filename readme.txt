@@ -88,14 +88,15 @@ Examples
 ./runme.sh -t TOK -n 100 -l de -e SIO (Perform Tokenisation on 100 German articles via Spacy IO)
 
 PROCESSING 
-	Download nif_context_en.ttl from the https://wiki.dbpedia.org/ and run the separate_scripts.sh pointing the path to downloaded 	 
-	location of nif_context. This separates the nif_context_en to RDF triples of individual articles and stores them in 		 
+	Download nif_context_en.ttl from the https://wiki.dbpedia.org/ and run the separate_scripts.sh with path as an argument to the 	 
+	downloaded location of nif_context. This separates the nif_context_en to RDF triples of individual articles and stores them in 	
 	Files/Inputen. If you download nif_context_fr.ttl then output gets stored in Files/Inputfr. Similarly Spanish nif_context_es.ttl 
 	gets stored in Files/Inputes and Files/Inputde for German. 
 	
 	Download nif_text_links_en.ttl from the https://wiki.dbpedia.org/ and run the separate_scripts.sh pointing the path to  	
 	downloaded location of nif_text_links. It creates a CSV file with all links,surface forms and their Part of Speech This is a     
-	mandatory step for performing link enrichment task. 
+	mandatory step for performing link enrichment task. You can terminate the execution of this script at anytime, more the records         better the resultset you are expected to get. This CSV file will contain duplicate records. So after this kindly run 
+	python final_scripts/LinkDataset_remove_duplicates.py in order to get rid of the duplicate records in CSV file.
 	
 OUTPUT
 	Results of sentence-splitting task gets stored in Files/Sentence folder in RDF triples.
