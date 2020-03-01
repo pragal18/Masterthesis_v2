@@ -95,7 +95,8 @@ PROCESSING
 	
 	Download nif_text_links_en.ttl from the https://wiki.dbpedia.org/ and run the separate_scripts.sh pointing the path to  	
 	downloaded location of nif_text_links. It creates a CSV file with all links,surface forms and their Part of Speech This is a     
-	mandatory step for performing link enrichment task. You can terminate the execution of this script at anytime, more the records         better the resultset you are expected to get. This CSV file will contain duplicate records. So after this kindly run 
+	mandatory step for performing link enrichment task. You can terminate the execution of this script at anytime, more the records 
+	better the resultset you are expected to get. This CSV file will contain duplicate records. So after this kindly run 
 	python final_scripts/LinkDataset_remove_duplicates.py in order to get rid of the duplicate records in CSV file.
 	
 OUTPUT
