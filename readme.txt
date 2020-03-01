@@ -103,3 +103,13 @@ OUTPUT
 	Results of Part of speech tasks gets stored in the Files/POS in RDF triples on the same name as the article.
 	Results of Link Enrichment task gets stored in Files/Links in RDF format.
 	Results of Search tasks gets stored on Files/Search with name of the article followed by task in RDF format.	
+
+MORE EXAMPLES
+
+New@DESKTOP-1UH44PA ~
+$ ./run.sh -n 5 -t "TOK" -p "GEN"
+Please check the Tokens folder for output files
+
+New@DESKTOP-1UH44PA ~
+$ ./run.sh -n 5 -t "TOK" -p "GEN" -l "JA"
+Please check the Tokens folder for output files
