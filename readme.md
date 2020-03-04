@@ -14,6 +14,11 @@ Download the NIF Context file from https://wiki.dbpedia.org/downloads-2016-10 in
  - Spanish (nif_context_es.ttl) and 
  - Japanese (nif_context_ja.ttl). 
 Download these files or only the languages that is required. Extract them after downloading. A minimal version of these files are created and are stored under NIF_Context_Minimal_Versions directory on this project.
+ 
+Download nif_text_links_<language>.ttl from the https://wiki.dbpedia.org/ and run the separate_scripts.sh pointing the path of  	
+downloaded location of nif_text_links. It creates a CSV file with all links,surface forms and their Part of Speech. This is a           
+mandatory step for performing link enrichment task.
+
  ### STEP 2:
 Run the 'separate_scripts.sh' by giving an argument -p followed by the path to the location of where the NIF context file is stored in your system. This will store the results in Files/Input<language> directory. 
  - Positional argument:
