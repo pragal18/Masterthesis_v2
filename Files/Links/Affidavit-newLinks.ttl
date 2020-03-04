@@ -1,0 +1,342 @@
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_1023_1035> a nif:Word ;
+    nif:anchorOf "imprisonment" ;
+    nif:beginIndex "1023" ;
+    nif:endIndex "1035" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "imprisonment" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_1073_1078> a nif:Word ;
+    nif:anchorOf "jurat" ;
+    nif:beginIndex "1073" ;
+    nif:endIndex "1078" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "jurat" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_131_135> a nif:Word ;
+    nif:anchorOf "oath" ;
+    nif:beginIndex "131" ;
+    nif:endIndex "135" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "oath" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_1365_1373> a nif:Word ;
+    nif:anchorOf "preamble" ;
+    nif:beginIndex "1365" ;
+    nif:endIndex "1373" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "preamble" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_1457_1466> a nif:Word ;
+    nif:anchorOf "authority" ;
+    nif:beginIndex "1457" ;
+    nif:endIndex "1466" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "authority" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_1469_1474> a nif:Word ;
+    nif:anchorOf "India" ;
+    nif:beginIndex "1469" ;
+    nif:endIndex "1474" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "India" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_1478_1484> a nif:Word ;
+    nif:anchorOf "Indian" ;
+    nif:beginIndex "1478" ;
+    nif:endIndex "1484" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "Indian" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_1567_1573> a nif:Word ;
+    nif:anchorOf "Courts" ;
+    nif:beginIndex "1567" ;
+    nif:endIndex "1573" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "Courts" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_1582_1594> a nif:Word ;
+    nif:anchorOf "jurisdiction" ;
+    nif:beginIndex "1582" ;
+    nif:endIndex "1594" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "jurisdiction" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_1750_1763> a nif:Phrase ;
+    nif:anchorOf "Supreme Court" ;
+    nif:beginIndex "1750" ;
+    nif:endIndex "1763" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "Supreme_Court" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_1827_1833> a nif:Word ;
+    nif:anchorOf "orders" ;
+    nif:beginIndex "1827" ;
+    nif:endIndex "1833" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "orders" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_1932_1949> a nif:Word ;
+    nif:anchorOf "cross-examination" ;
+    nif:beginIndex "1932" ;
+    nif:endIndex "1949" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "cross-examination" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_199_202> a nif:Word ;
+    nif:anchorOf "law" ;
+    nif:beginIndex "199" ;
+    nif:endIndex "202" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "law" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_2027_2031> a nif:Word ;
+    nif:anchorOf "1960" ;
+    nif:beginIndex "2027" ;
+    nif:endIndex "2031" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "1960" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_2136_2144> a nif:Word ;
+    nif:anchorOf "specific" ;
+    nif:beginIndex "2136" ;
+    nif:endIndex "2144" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "specific" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_2217_2224> a nif:Word ;
+    nif:anchorOf "England" ;
+    nif:beginIndex "2217" ;
+    nif:endIndex "2224" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "England" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_2281_2292> a nif:Word ;
+    nif:anchorOf "declaration" ;
+    nif:beginIndex "2281" ;
+    nif:endIndex "2292" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "declaration" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_272_281> a nif:Word ;
+    nif:anchorOf "signature" ;
+    nif:beginIndex "272" ;
+    nif:endIndex "281" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "signature" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_2792_2805> a nif:Phrase ;
+    nif:anchorOf "United States" ;
+    nif:beginIndex "2792" ;
+    nif:endIndex "2805" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "United_States" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_2809_2817> a nif:Word ;
+    nif:anchorOf "American" ;
+    nif:beginIndex "2809" ;
+    nif:endIndex "2817" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "American" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_2818_2831> a nif:Word ;
+    nif:anchorOf "jurisprudence" ;
+    nif:beginIndex "2818" ;
+    nif:endIndex "2831" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "jurisprudence" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_2843_2848> a nif:Word ;
+    nif:anchorOf "rules" ;
+    nif:beginIndex "2843" ;
+    nif:endIndex "2848" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "rules" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_2853_2860> a nif:Word ;
+    nif:anchorOf "hearsay" ;
+    nif:beginIndex "2853" ;
+    nif:endIndex "2860" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "hearsay" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_2957_2966> a nif:Word ;
+    nif:anchorOf "available" ;
+    nif:beginIndex "2957" ;
+    nif:endIndex "2966" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "available" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_3052_3058> a nif:Word ;
+    nif:anchorOf "matter" ;
+    nif:beginIndex "3052" ;
+    nif:endIndex "3058" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "matter" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_313_326> a nif:Phrase ;
+    nif:anchorOf "notary public" ;
+    nif:beginIndex "313" ;
+    nif:endIndex "326" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "notary_public" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_3230_3238> a nif:Word ;
+    nif:anchorOf "presence" ;
+    nif:beginIndex "3230" ;
+    nif:endIndex "3238" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "presence" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_3242_3264> a nif:Phrase ;
+    nif:anchorOf "corroborating evidence" ;
+    nif:beginIndex "3242" ;
+    nif:endIndex "3264" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "corroborating_evidence" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_3393_3405> a nif:Word ;
+    nif:anchorOf "recollection" ;
+    nif:beginIndex "3393" ;
+    nif:endIndex "3405" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "recollection" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_357_361> a nif:Word ;
+    nif:anchorOf "name" ;
+    nif:beginIndex "357" ;
+    nif:endIndex "361" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "name" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_365_379> a nif:Phrase ;
+    nif:anchorOf "Medieval Latin" ;
+    nif:beginIndex "365" ;
+    nif:endIndex "379" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "Medieval_Latin" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_3732_3740> a nif:Word ;
+    nif:anchorOf "response" ;
+    nif:beginIndex "3732" ;
+    nif:endIndex "3740" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "response" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_3744_3759> a nif:Word ;
+    nif:anchorOf "interrogatories" ;
+    nif:beginIndex "3744" ;
+    nif:endIndex "3759" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "interrogatories" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_3761_3784> a nif:Phrase ;
+    nif:anchorOf "Requests for admissions" ;
+    nif:beginIndex "3761" ;
+    nif:endIndex "3784" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "Requests_for_admissions" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_3871_3876> a nif:Word ;
+    nif:anchorOf "types" ;
+    nif:beginIndex "3871" ;
+    nif:endIndex "3876" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "types" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_3947_3958> a nif:Word ;
+    nif:anchorOf "independent" ;
+    nif:beginIndex "3947" ;
+    nif:endIndex "3958" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "independent" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_395_403> a nif:Word ;
+    nif:anchorOf "declared" ;
+    nif:beginIndex "395" ;
+    nif:endIndex "403" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "declared" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_4225_4241> a nif:Phrase ;
+    nif:anchorOf "judicial economy" ;
+    nif:beginIndex "4225" ;
+    nif:endIndex "4241" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "judicial_economy" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_4391_4401> a nif:Word ;
+    nif:anchorOf "disbarment" ;
+    nif:beginIndex "4391" ;
+    nif:endIndex "4401" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "disbarment" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_4623_4637> a nif:Phrase ;
+    nif:anchorOf "legal document" ;
+    nif:beginIndex "4623" ;
+    nif:endIndex "4637" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "legal_document" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_4647_4660> a nif:Word ;
+    nif:anchorOf "jurisdictions" ;
+    nif:beginIndex "4647" ;
+    nif:endIndex "4660" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "jurisdictions" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_5305_5311> a nif:Word ;
+    nif:anchorOf "border" ;
+    nif:beginIndex "5305" ;
+    nif:endIndex "5311" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "border" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_5321_5330> a nif:Word ;
+    nif:anchorOf "Australia" ;
+    nif:beginIndex "5321" ;
+    nif:endIndex "5330" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "Australia" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_5519_5527> a nif:Phrase ;
+    nif:anchorOf "See also" ;
+    nif:beginIndex "5519" ;
+    nif:endIndex "5527" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "See_also" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_5575_5596> a nif:Phrase ;
+    nif:anchorOf "Statutory declaration" ;
+    nif:beginIndex "5575" ;
+    nif:endIndex "5596" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "Statutory_declaration" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_631_636> a nif:Word ;
+    nif:anchorOf "court" ;
+    nif:beginIndex "631" ;
+    nif:endIndex "636" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "court" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_74_78> a nif:Word ;
+    nif:anchorOf "fact" ;
+    nif:beginIndex "74" ;
+    nif:endIndex "78" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "fact" .
+
+<http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=word_931_936> a nif:Word ;
+    nif:anchorOf "truth" ;
+    nif:beginIndex "931" ;
+    nif:endIndex "936" ;
+    nif:referenceContext <http://dbpedia.org/resource/Affidavit?dbpv=2016-10&nif=context> ;
+    nif:taIdentRef "truth" .
+
